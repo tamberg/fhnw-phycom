@@ -1,2 +1,3 @@
-# fhnw-phycom
-FHNW Module Physical Computing (phycom)
+# Physical Computing
+Module [phycom](https://www.fhnw.ch/de/studium/module/9880131) by [@tamberg](https://twitter.com/tamberg) & [@dusjagr](https://twitter.com/dusjagr) for [FHNW](https://www.fhnw.ch/).
+
