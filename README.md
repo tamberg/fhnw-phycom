@@ -3,7 +3,7 @@ Module [phycom](https://www.fhnw.ch/de/studium/module/9880131) by [@tamberg](htt
 
 ## Content
 0. [Lehrplan & Überblick](00/README.md)
-1. [Elektronik Grundlagen](01/README.md)
+1. [DIY-Elektronik Grundlagen](01/README.md)
 2. [Embedded Programmierung](02/README.md)
 3. [Ideenfindung & Prototyping](03/README.md)
 4. [Digitale Fabrikation 2D](04/README.md)
