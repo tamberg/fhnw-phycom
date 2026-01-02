@@ -1,6 +1,9 @@
 # Physical Computing
 Module [phycom](https://www.fhnw.ch/de/studium/module/9880131) by [@tamberg](https://twitter.com/tamberg) with [@dusjagr](https://twitter.com/dusjagr) for [FHNW](https://www.fhnw.ch/).
 
+## Code of Conduct
+Be excellent to each other — seid exzellent zueinander!
+
 ## Content
 0. [Lehrplan & Überblick](00/README.md)
 1. [DIY-Elektronik Grundlagen](01/README.md)
