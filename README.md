@@ -5,14 +5,14 @@ Module [phycom](https://www.fhnw.ch/de/studium/module/9880131) by [@tamberg](htt
 > Be excellent to each other — seid exzellent zueinander!
 
 ## Content
-0. [Lehrplan & Überblick](00/README.md)
-1. [DIY-Elektronik Grundlagen](01/README.md)
-2. [Embedded Programmierung](02/README.md)
-3. [Ideenfindung & Prototyping](03/README.md)
-4. [Digitale Fabrikation 2D](04/README.md)
-5. [Digitale Fabrikation 3D](05/README.md)
-6. [PCB-Layout & Herstellung](06/README.md)
-7. [Dokumentieren & Teilen](07/README.md)
+0. [Syllabus & Overview](00/README.md)
+1. [DIY-Elektronics Basics](01/README.md)
+2. [Embedded Programming](02/README.md)
+3. [Ideation & Prototyping](03/README.md)
+4. [Digital Fabrication in 2D](04/README.md)
+5. [Digital Fabrication in 3D](05/README.md)
+6. [PCB-Layout & Production](06/README.md)
+7. [Documentation & Sharing](07/README.md)
 
 ## Hardware
 TODO
