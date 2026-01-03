@@ -36,7 +36,7 @@
 > Students are expected to be present for the entire two weeks.
 
 - The course consists of inputs and hands-on making sessions.
-- We will use specific equipment in a makerspace setting.
+- We will use specific tools available in a makerspace setting.
 
 ### Week 1
 
@@ -82,6 +82,7 @@ Each topic follows this structure.
 
 ### Contact
 - Contact us via MS Teams or email thomas.amberg@fhnw.ch.
+
 
 
 
