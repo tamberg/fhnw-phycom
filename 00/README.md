@@ -58,9 +58,9 @@ Day|Input|Making
 :---|:---|:---
 Mon|PCB-Layout|Etching or Milling
 Tue|Documentation & Sharing|-
-Wed|DIY-Project Kick-off|DIY-Project Work
-Thu|DIY-Project Review|DIY-Project Work
-Fri|DIY-Project Documentation|Presentation
+Wed|DIY-Project Kick-off|Working
+Thu|DIY-Project Inputs|Working
+Fri|DIY-Project Inputs|Presenting
 
 ### Topics
 The course covers these topics.
@@ -93,6 +93,7 @@ Each topic follows this structure.
 
 ### Contact
 - Contact us via MS Teams or email thomas.amberg@fhnw.ch.
+
 
 
 
