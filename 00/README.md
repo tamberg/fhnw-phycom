@@ -17,9 +17,9 @@
 - Module [phycom](https://www.fhnw.ch/de/studium/module/9880131)
 
 ### Language
-- Inputs in class are in German
-- Materials are mostly in English
-- Individual support German/English
+- Inputs in class are in German.
+- Materials are mostly in English.
+- Individual support can be both.
 
 ### Credits
 - 3 ECTS.
@@ -87,6 +87,7 @@ Each topic follows this structure.
 
 ### Contact
 - Contact us via MS Teams or email thomas.amberg@fhnw.ch.
+
 
 
 
