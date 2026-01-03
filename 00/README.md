@@ -7,8 +7,7 @@
 - [Time](#time)
 - [Location](#location)
 - [Presence](#presence)
-- [Week 1](#week-1)
-- [Week 2](#week-2)
+- [Program](#program)
 - [Topics](#topics)
 - [Structure](#structure)
 - [Audience](#audience)
@@ -48,20 +47,20 @@
 #### Week 1
 Day|Input|Making
 :---|:---|:---
-Mon|1. DIY-Electronics|Soldering
-Tue|2. Embedded Programming|-
-Wed|3. Design & Ideation|Prototyping
-Thu|4. Digital Fabrication in 2D|Laser-cutting
-Fri|5. Digital Fabrication in 3D|3D-printing
+Mon|DIY-Electronics|Soldering
+Tue|Embedded Programming|-
+Wed|Design & Ideation|Prototyping
+Thu|Digital Fabrication in 2D|Laser-cutting
+Fri|Digital Fabrication in 3D|3D-printing
 
 #### Week 2
 Day|Input|Making
 :---|:---|:---
-Mon|6. PCB-Layout|Production
-Tue|7. Documentation & Sharing|-
-Wed|8. DIY-Project Kick-off|DIY-Project Work
-Thu|9. DIY-Project Review|DIY-Project Work
-Fri|10. DIY-Project Documentation|Presentation
+Mon|PCB-Layout|Production
+Tue|Documentation & Sharing|-
+Wed|DIY-Project Kick-off|DIY-Project Work
+Thu|DIY-Project Review|DIY-Project Work
+Fri|DIY-Project Documentation|Presentation
 
 ### Topics
 The course covers these topics.
@@ -74,6 +73,7 @@ The course covers these topics.
 5. [Digital Fabrication in 3D](../05/README.md)
 6. [PCB-Layout & Production](../06/README.md)
 7. [Documentation & Sharing](../07/README.md)
+8. [DIY-Project & Presentation](../08/README.md)
 
 ### Structure
 Each topic follows this structure.
@@ -93,6 +93,7 @@ Each topic follows this structure.
 
 ### Contact
 - Contact us via MS Teams or email thomas.amberg@fhnw.ch.
+
 
 
 
