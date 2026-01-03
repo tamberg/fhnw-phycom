@@ -56,7 +56,7 @@ Fri|Digital Fabrication in 3D|3D-printing
 #### Week 2
 Day|Input|Making
 :---|:---|:---
-Mon|PCB-Layout|Production
+Mon|PCB-Layout|Etching or Milling
 Tue|Documentation & Sharing|-
 Wed|DIY-Project Kick-off|DIY-Project Work
 Thu|DIY-Project Review|DIY-Project Work
@@ -93,6 +93,7 @@ Each topic follows this structure.
 
 ### Contact
 - Contact us via MS Teams or email thomas.amberg@fhnw.ch.
+
 
 
 
