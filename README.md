@@ -4,7 +4,7 @@ Module [phycom](https://www.fhnw.ch/de/studium/module/9880131) by [@tamberg](htt
 ## Code of Conduct
 > Be excellent to each other — seid exzellent zueinander!
 
-## Content
+## Topics
 0. [Syllabus & Overview](00/README.md)
 1. [DIY-Electronics & Soldering](01/README.md)
 2. [Embedded Programming](02/README.md)
