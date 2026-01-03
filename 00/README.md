@@ -45,27 +45,29 @@
 - We will use specific tools available in a typical makerspace.
 
 ### Program
-#### Week 1
-
+#### Week 1 Overview
 Mon|Tue|Wed|Thu|Fri|Focus
 :---|:---|:---|:---|:---|:---
-1|1/2|1/2|1/2|1/2|Input
-0|1/2|1/2|1/2|1/2|Making
+1/2|1|1/2|1/2|1/2|Input
+1/2|0|1/2|1/2|1/2|Making
 
+#### Week 1 Detail
 Day|Input|Making
 :---|:---|:---
-Mon|Introduction|Space setup
-Tue|Electronics|Soldering
-Wed||
-Thu||
-Fri||
+Mon|1. DIY-Electronics|Soldering
+Tue|2. Embedded Programming|-
+Wed|3. Ideation|Cardboard Prototyping
+Thu|4. Fabrication in 2D|Laser-cutting
+Fri|5. Fabrication in 3D|3D-printing
 
-#### Week 2
-
+#### Week 2 Overview
 Mon|Tue|Wed|Thu|Fri|Focus
 :---|:---|:---|:---|:---|:---
 1/2|1/2|1/2|1/2|1|Input
 1/2|1/2|1/2|1/2|0|Making
+
+#### Week 2 Detail
+...
 
 ### Topics
 The course covers these topics.
@@ -97,6 +99,7 @@ Each topic follows this structure.
 
 ### Contact
 - Contact us via MS Teams or email thomas.amberg@fhnw.ch.
+
 
 
 
