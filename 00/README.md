@@ -13,7 +13,7 @@
 ### Time
 - 09:15 - 12:00, 3 hours in the morning.
 - 13:15 - 18:00, 5 hours in the afternoon.
-- 15 minute breaks, roughly every full hour.
+- 15 minute breaks, roughly once an hour.
 
 ### Location
 - Input — usually at the classroom, Room [TBA].
@@ -69,6 +69,7 @@ Each topic follows this structure.
 
 ### Contact
 - Contact us via MS Teams or email thomas.amberg@fhnw.ch.
+
 
 
 
