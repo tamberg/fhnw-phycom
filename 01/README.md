@@ -1,7 +1,7 @@
 # Physical Computing
 Module [phycom](https://www.fhnw.ch/de/studium/module/9880131) by [@tamberg](https://github.com/tamberg) and [@dusjagr](https://github.com/dusjagr) for [FHNW](https://www.fhnw.ch/).
 
-## Part 1: DIY-Electronics & Soldering
+## 1: DIY-Electronics & Soldering
 - [Motivation](#Motivation)
 - [Basics](#Basics)
 - [Advanced](#Advanced)
@@ -40,5 +40,6 @@ Module [phycom](https://www.fhnw.ch/de/studium/module/9880131) by [@tamberg](htt
 ### Resources
 - [Soldering is Easy](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) zine
 - [Make Electronics](https://archive.org/details/makeelectronicsl0000plat) book
+
 
 
