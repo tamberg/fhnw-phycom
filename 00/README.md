@@ -59,9 +59,9 @@ Day|Input|Making
 :---|:---|:---
 Mon|6. PCB-Layout|Production
 Tue|7. Documentation & Sharing
-Wed|8. DIY Project Kick-off|Making
-Thu|9. DIY Project Review|Making
-Fri|10. DIY Project Docs|Presentation
+Wed|8. DIY Project Kick-off|DIY Project Work
+Thu|9. DIY Project Review|DIY Project Work
+Fri|10. DIY Project Documentation|Presentation
 
 ### Topics
 The course covers these topics.
@@ -93,6 +93,7 @@ Each topic follows this structure.
 
 ### Contact
 - Contact us via MS Teams or email thomas.amberg@fhnw.ch.
+
 
 
 
