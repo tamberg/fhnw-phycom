@@ -45,18 +45,6 @@
 - We will use specific tools available in a typical makerspace.
 
 ### Program
-#### Overview
-
-Mon|Tue|Wed|Thu|Fri|Focus
-:---|:---|:---|:---|:---|:---
-1/2|1|1/2|1/2|1/2|Input
-1/2|0|1/2|1/2|1/2|Making
-
-Mon|Tue|Wed|Thu|Fri|Focus
-:---|:---|:---|:---|:---|:---
-1/2|1/2|1/2|1/2|1|Input
-1/2|1/2|1/2|1/2|0|Making
-
 #### Week 1
 Day|Input|Making
 :---|:---|:---
@@ -67,12 +55,13 @@ Thu|4. Digital Fabrication in 2D|Laser-cutting
 Fri|5. Digital Fabrication in 3D|3D-printing
 
 #### Week 2
+Day|Input|Making
 :---|:---|:---
-Mon|6. ...|...
-Tue|7. ...|...
-Wed|8. ...|...
-Thu|9. ...|...
-Fri|10. ...|...
+Mon|6. PCB-Layout|Production
+Tue|7. Documentation & Sharing
+Wed|8. DIY Project Kick-off|Making
+Thu|9. DIY Project Review|Making
+Fri|10. DIY Project Docs|Presentation
 
 ### Topics
 The course covers these topics.
@@ -104,6 +93,7 @@ Each topic follows this structure.
 
 ### Contact
 - Contact us via MS Teams or email thomas.amberg@fhnw.ch.
+
 
 
 
