@@ -1,5 +1,18 @@
 # Physical Computing
 ## Syllabus & Overview
+- [Description](#Description)
+- [Credits](#Credits)
+- [Date](#Date)
+- [Time](#Time)
+- [Location](#Location)
+- [Presence](#Description)
+- [Week 1](#Description)
+- [Week 2](#Description)
+- [Topics](#Description)
+- [Structure](#Description)
+- [Audience](#Description)
+- [Contact](#Description)
+
 ### Description
 - Module [phycom](https://www.fhnw.ch/de/studium/module/9880131)
 
@@ -69,6 +82,7 @@ Each topic follows this structure.
 
 ### Contact
 - Contact us via MS Teams or email thomas.amberg@fhnw.ch.
+
 
 
 
