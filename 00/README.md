@@ -58,7 +58,7 @@ Fri|5. Digital Fabrication in 3D|3D-printing
 Day|Input|Making
 :---|:---|:---
 Mon|6. PCB-Layout|Production
-Tue|7. Documentation & Sharing|
+Tue|7. Documentation & Sharing|-
 Wed|8. DIY-Project Kick-off|DIY-Project Work
 Thu|9. DIY-Project Review|DIY-Project Work
 Fri|10. DIY-Project Documentation|Presentation
@@ -93,6 +93,7 @@ Each topic follows this structure.
 
 ### Contact
 - Contact us via MS Teams or email thomas.amberg@fhnw.ch.
+
 
 
 
