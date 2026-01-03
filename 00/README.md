@@ -1,6 +1,4 @@
 # Physical Computing
-Module [phycom](https://www.fhnw.ch/de/studium/module/9880131) by [@tamberg](https://github.com/tamberg) and [@dusjagr](https://github.com/dusjagr) for [FHNW](https://www.fhnw.ch/).
-
 ## Syllabus & Overview
 ### Description
 - Module [phycom](https://www.fhnw.ch/de/studium/module/9880131)
@@ -42,3 +40,4 @@ Each topic follows this structure.
 - Tools — which tools you can use to get some hands-on experience.
 - Skills — what you can learn by doing it yourself and with others.
 - Resources — where you find additional, high quality information.
+
