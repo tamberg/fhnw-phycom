@@ -51,4 +51,5 @@ Each topic follows this structure.
 - Resources — where you find additional, high quality information.
 
 ### Target group
-This course can be attedned by students from both, HSI and HTU.
+This course can be attedned by students from both, [HSI](https://fhnw.ch/hsi) and [HTU](https://fhnw.ch/htu).
+
