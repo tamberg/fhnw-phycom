@@ -22,7 +22,7 @@
 - Your contribution can be in DE or EN.
 
 ### Credits
-- 3 ECTS.
+- 3 ECTS, pass/fail.
 
 ### Date
 - Week 1, KW24, 08.06. - 12.06.2026.
@@ -93,6 +93,7 @@ Each topic follows this structure.
 
 ### Contact
 - Contact us via MS Teams or email thomas.amberg@fhnw.ch.
+
 
 
 
