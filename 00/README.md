@@ -44,14 +44,23 @@
 - The course consists of inputs and hands-on making sessions.
 - We will use specific tools available in a typical makerspace.
 
-### Week 1
+### Program
+#### Week 1
 
 Mon|Tue|Wed|Thu|Fri|Focus
 :---|:---|:---|:---|:---|:---
 1|1/2|1/2|1/2|1/2|Input
 0|1/2|1/2|1/2|1/2|Making
 
-### Week 2
+Day|Input|Making
+:---|:---|:---
+Mon|Introduction|Space setup
+Tue|Electronics|Soldering
+Wed||
+Thu||
+Fri||
+
+#### Week 2
 
 Mon|Tue|Wed|Thu|Fri|Focus
 :---|:---|:---|:---|:---|:---
@@ -88,6 +97,7 @@ Each topic follows this structure.
 
 ### Contact
 - Contact us via MS Teams or email thomas.amberg@fhnw.ch.
+
 
 
 
