@@ -68,7 +68,8 @@ Each topic follows this structure.
 - If you are not sure if this course is for you, consider contacting us.
 
 ### Contact
-- Contact us via MS Teams or email thomas.amberg@fhnw.ch
+- Contact us via MS Teams or email thomas.amberg@fhnw.ch.
+
 
 
 
