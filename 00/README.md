@@ -4,11 +4,11 @@
 - Module [phycom](https://www.fhnw.ch/de/studium/module/9880131)
 
 ### Credits
-- 3 ECTS
+- 3 ECTS.
 
 ### Date
-- Week 1, KW24, 08.06. - 12.06.2026
-- Week 2, KW25, 15.06. - 19.06.2026
+- Week 1, KW24, 08.06. - 12.06.2026.
+- Week 2, KW25, 15.06. - 19.06.2026.
 
 ### Time
 - 09:15 - 12:00, 3 hours in the morning.
@@ -69,6 +69,7 @@ Each topic follows this structure.
 
 ### Contact
 - Contact us via MS Teams or email thomas.amberg@fhnw.ch
+
 
 
 
