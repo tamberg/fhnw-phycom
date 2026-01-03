@@ -21,16 +21,19 @@ Mon|Tue|Wed|Thu|Fri|Focus
 - 09:15 - 12:00 Morning
 - 13:15 - 18:00 Afternoon
 
+### Structure
+Each part follows this structure.
+
+- Motivation
+- Basics
+- Advanced
+- Material
+- Tools
+- Skills
+- Resources
+
 ### Parts
 ...
 
 ### Resources
-
 ...
-
-
-
-
-
-
-
