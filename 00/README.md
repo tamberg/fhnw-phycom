@@ -11,16 +11,19 @@
 - Week 2, KW25, 15.06. - 19.06.2026
 
 ### Time
-- 09:15 - 12:00, 3h in the morning
-- 13:15 - 18:00, 5h in the afternoon
+- 09:15 - 12:00, 3 hours in the morning.
+- 13:15 - 18:00, 5 hours in the afternoon.
+- 15 minute breaks, roughly every full hour.
 
 ### Location
-- Input — usually at the classroom, Room [TBA]
-- Making  — usually at the makerspace, Room [TBA]
+- Input — usually at the classroom, Room [TBA].
+- Making  — usually at the makerspace, Room [TBA].
 
 ### Presence
-- Students are expected to be present for the entire two weeks
-- The course consists of inputs and hands-on making sessions
+> Students are expected to be present for the entire two weeks.
+
+- The course consists of inputs and hands-on making sessions.
+- We will use specific equipment in a makerspace setting.
 
 ### Week 1
 
@@ -66,6 +69,7 @@ Each topic follows this structure.
 
 ### Contact
 - Contact us via MS Teams or email thomas.amberg@fhnw.ch
+
 
 
 
