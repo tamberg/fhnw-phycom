@@ -3,8 +3,26 @@
 ### Description
 - Module [phycom](https://www.fhnw.ch/de/studium/module/9880131)
 
+### Credits
+- 3 ECTS
+
+### Date
+- Week 1, KW24, 08.06. - 12.06.2026
+- Week 2, KW25, 15.06. - 19.06.2026
+
+### Time
+- 09:15 - 12:00, 3h in the morning
+- 13:15 - 18:00, 5h in the afternoon
+
+### Location
+- Input — usually at the classroom, Room [TBA]
+- Making  — usually at the makerspace, Room [TBA]
+
+### Presence
+- Students are expected to be present for the entire two weeks
+- The course consists of inputs and hands-on making sessions
+
 ### Week 1
-- KW24, 08.06. - 12.06.2026
 
 Mon|Tue|Wed|Thu|Fri|Focus
 :---|:---|:---|:---|:---|:---
@@ -12,20 +30,11 @@ Mon|Tue|Wed|Thu|Fri|Focus
 0|1/2|1/2|1/2|1/2|Making
 
 ### Week 2
-- KW25, 15.06.2026 - 19.06.2026
 
 Mon|Tue|Wed|Thu|Fri|Focus
 :---|:---|:---|:---|:---|:---
 1/2|1/2|1/2|1/2|1|Input
 1/2|1/2|1/2|1/2|0|Making
-
-### Time
-- 09:15 - 12:00 Morning
-- 13:15 - 18:00 Afternoon
-
-### Place
-- Input — happens mostly at the classroom, Room [TBA]
-- Making  — happens mostly at the makerspace, Room [TBA]
 
 ### Topics
 - See [list of topics](../#Topics)
@@ -40,4 +49,5 @@ Each topic follows this structure.
 - Tools — which tools you can use to get some hands-on experience.
 - Skills — what you can learn by doing it yourself and with others.
 - Resources — where you find additional, high quality information.
+
 
