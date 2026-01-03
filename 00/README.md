@@ -10,8 +10,8 @@ Module [phycom](https://www.fhnw.ch/de/studium/module/9880131) by [@tamberg](htt
 
 Mon|Tue|Wed|Thu|Fri
 :---|:---|:---|:---|:---
-1|1/2|||_Intro_
-0|10'|3'|2'|B
+1|1/2|1/2|1/2|1/2
+0|1/2|1/2|1/2|1/2
 
 ### Week 2
 
@@ -30,6 +30,7 @@ Mon|Tue|Wed|Thu|Fri|
 ### Resources
 
 ...
+
 
 
 
