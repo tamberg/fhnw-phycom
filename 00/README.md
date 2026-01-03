@@ -1,6 +1,7 @@
 # Physical Computing
 ## Syllabus & Overview
 - [Description](#description)
+- [Language](#language)
 - [Credits](#credits)
 - [Date](#date)
 - [Time](#time)
@@ -87,6 +88,7 @@ Each topic follows this structure.
 
 ### Contact
 - Contact us via MS Teams or email thomas.amberg@fhnw.ch.
+
 
 
 
