@@ -62,10 +62,11 @@ Each topic follows this structure.
 ### Audience
 - This course can be attedned by students from both, [HSI](https://fhnw.ch/hsi) and [HTU](https://fhnw.ch/htu).
 - Basic knowledge of either programming or electronics might help.
-- If you are not sure if this is for you, just contact us.
+- If you are not sure if this is for you, consider contacting us.
 
 ### Contact
 - Contact us via MS Teams or email thomas.amberg@fhnw.ch
+
 
 
 
