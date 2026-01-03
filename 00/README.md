@@ -37,7 +37,16 @@ Mon|Tue|Wed|Thu|Fri|Focus
 1/2|1/2|1/2|1/2|0|Making
 
 ### Topics
-- See [list of topics](../#Topics)
+The course covers these topics.
+
+0. [Syllabus & Overview](../00/README.md)
+1. [DIY-Electronics & Soldering](../01/README.md)
+2. [Embedded Programming](../02/README.md)
+3. [Ideation & Prototyping](../03/README.md)
+4. [Digital Fabrication in 2D](../04/README.md)
+5. [Digital Fabrication in 3D](../05/README.md)
+6. [PCB-Layout & Production](../06/README.md)
+7. [Documentation & Sharing](../07/README.md)
 
 ### Structure
 Each topic follows this structure.
@@ -50,6 +59,8 @@ Each topic follows this structure.
 - Skills — what you can learn by doing it yourself and with others.
 - Resources — where you find additional, high quality information.
 
-### Target group
+### Audience
 This course can be attedned by students from both, [HSI](https://fhnw.ch/hsi) and [HTU](https://fhnw.ch/htu).
 
+### Contact
+- Contact us via MS Teams or email thomas.amberg@fhnw.ch
