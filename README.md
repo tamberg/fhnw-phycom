@@ -1,5 +1,5 @@
 # Physical Computing
-Module [phycom](https://www.fhnw.ch/de/studium/module/9880131) by [@tamberg](https://twitter.com/tamberg) with [@dusjagr](https://twitter.com/dusjagr) for [FHNW](https://www.fhnw.ch/).
+Module [phycom](https://www.fhnw.ch/de/studium/module/9880131) by [@tamberg](https://github.com/tamberg) and [@dusjagr](https://github.com/dusjagr) for [FHNW](https://www.fhnw.ch/).
 
 ## Code of Conduct
 > Be excellent to each other — seid exzellent zueinander!
