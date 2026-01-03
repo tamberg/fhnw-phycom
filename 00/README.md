@@ -50,7 +50,7 @@ Day|Input|Making
 :---|:---|:---
 Mon|1. DIY-Electronics|Soldering
 Tue|2. Embedded Programming|-
-Wed|3. Design Ideation|Prototyping with Cardboard
+Wed|3. Design & Ideation|Prototyping
 Thu|4. Digital Fabrication in 2D|Laser-cutting
 Fri|5. Digital Fabrication in 3D|3D-printing
 
@@ -69,7 +69,7 @@ The course covers these topics.
 0. [Syllabus & Overview](../00/README.md)
 1. [DIY-Electronics & Soldering](../01/README.md)
 2. [Embedded Programming](../02/README.md)
-3. [Ideation & Prototyping](../03/README.md)
+3. [Design, Ideation & Prototyping](../03/README.md)
 4. [Digital Fabrication in 2D](../04/README.md)
 5. [Digital Fabrication in 3D](../05/README.md)
 6. [PCB-Layout & Production](../06/README.md)
@@ -93,6 +93,7 @@ Each topic follows this structure.
 
 ### Contact
 - Contact us via MS Teams or email thomas.amberg@fhnw.ch.
+
 
 
 
