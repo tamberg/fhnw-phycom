@@ -20,7 +20,7 @@ Module [phycom](https://www.fhnw.ch/de/studium/module/9880131) by [@tamberg](htt
 - Pliers
 
 ### Skills
-- [ ] Soldering through-hole
+- [ ] Soldering (through-hole)
 - [ ] Soldering SMD parts
 - [ ] Desoldering parts
 - [ ] Measuring V, A, Ω
