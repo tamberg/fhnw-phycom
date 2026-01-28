@@ -13,10 +13,17 @@
 ...
 
 ### Basics
-...
+- Parts (LED, Switch, Resistor, Battery)
+- Electrical units (Volt, Ampere, Ohm, ...)
+- Electrical circuits (Voltage divider, ...)
+- Handy formulas (U = R * I, P = U * I, ...)
 
 ### Advanced
-...
+- Capacitor
+- Transistor
+- Integrated circuit
+- Inductance
+- Motor
 
 ### Material
 - Solder mat
@@ -39,6 +46,7 @@
 ### Resources
 - [Soldering is Easy](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) zine
 - [Make Electronics](https://archive.org/details/makeelectronicsl0000plat) book
+
 
 
 
