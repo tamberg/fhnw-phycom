@@ -10,7 +10,8 @@
 - [Resources](#Resources)
 
 ### Motivation
-...
+- Basic circuits with parts (Light switch, Pin/Brooch with LED, Beepsy, ...)
+- Advanced circuits with ICs (Micro-noise, Solar bird, Motor-driver, ...)
 
 ### Basics
 - Parts (LED, Switch, Resistor, Battery, Cables)
@@ -21,13 +22,13 @@
 - Formulas (Ohm's law, U = R * I, P = U * I)
 
 ### Advanced
-- Transistor (Switch electricity)
+- Potentiometer (Variable resistance)
+- Capacity (Variable current over time)
 - Inductance (Current vs. magnetic field)
-- Poti (Variable resistance)
-- Relais (Switch higher currents)
+- Relais (Switch high currents)
 - Motors (DC motor, Servo, ...)
+- Transistor (Switch low currents)
 - ICs (Transistors, H-bridge, ...)
-- Circuits with ICs (Micro-noise, Solar bird, Motor-driver, ...)
 
 ### Material
 - Solder mat
@@ -39,6 +40,7 @@
 - Helping hands
 - Multimeter
 - Pliers
+- Oscilloscope
 
 ### Skills
 - [ ] Soldering (through-hole)
@@ -50,6 +52,7 @@
 ### Resources
 - [Soldering is Easy](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) zine
 - [Make Electronics](https://archive.org/details/makeelectronicsl0000plat) book
+
 
 
 
