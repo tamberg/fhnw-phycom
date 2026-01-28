@@ -1,4 +1,5 @@
 # Physical Computing
+
 ## DIY-Electronics & Soldering
 - [Motivation](#Motivation)
 - [Basics](#Basics)
@@ -38,6 +39,7 @@
 ### Resources
 - [Soldering is Easy](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) zine
 - [Make Electronics](https://archive.org/details/makeelectronicsl0000plat) book
+
 
 
 
