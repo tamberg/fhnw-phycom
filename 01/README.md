@@ -34,12 +34,17 @@
 - Solder mat
 - Solder
 - Solder wick
+- Electronic parts
+- Wire (Red, Black, ...)
+- 9V Battery or USB cable
+- Breadboard
+- Proto board
 
 ### Tools
 - Soldering iron
 - Helping hands
-- Multimeter
 - Pliers
+- Multimeter
 - Oscilloscope
 
 ### Skills
@@ -52,6 +57,7 @@
 ### Resources
 - [Soldering is Easy](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) zine
 - [Make Electronics](https://archive.org/details/makeelectronicsl0000plat) book
+
 
 
 
