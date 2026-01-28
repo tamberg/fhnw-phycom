@@ -14,7 +14,7 @@
 - Advanced circuits with ICs ([Micro-noise](https://wiki.sgmk-ssam.ch/wiki/Micronoise) circuit, [Solar bird](https://wiki.sgmk-ssam.ch/wiki/Solar_bird) circuit, ...)
 
 ### Basics
-- Parts (LED, Switch, Resistor, Battery, Cables)
+- Parts (LED, Switch, Resistor, Power source, Cables)
 - Concepts (Voltage, Current, Resistance, Power, ...)
 - Units (Volt, Ampere, Ohm, Ah, ...)
 - Symbols (...)
@@ -52,6 +52,7 @@
 ### Resources
 - [Soldering is Easy](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) zine
 - [Make Electronics](https://archive.org/details/makeelectronicsl0000plat) book
+
 
 
 
