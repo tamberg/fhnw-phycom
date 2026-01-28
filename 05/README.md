@@ -29,7 +29,8 @@ Module [phycom](https://www.fhnw.ch/de/studium/module/9880131) by [@tamberg](htt
 - [ ] Skill
 
 ### Resources
-- ...
+- [Design for 3D-printing](https://blog.rahix.de/design-for-3d-printing/) article
+
 
 
 
