@@ -10,8 +10,8 @@
 - [Resources](#Resources)
 
 ### Motivation
-- Basic circuits with parts (Light switch, Pin/Brooch with LED, Beepsy, ...)
-- Advanced circuits with ICs (Micro-noise, Solar bird, Motor-driver, ...)
+- Basic circuits with parts (Light switch in the room, [I can solder](https://www.tindie.com/products/PartFusion/i-can-solder-badge-v1/) badge, Beepsy tool, ...)
+- Advanced circuits with ICs ([Micro-noise](https://wiki.sgmk-ssam.ch/wiki/Micronoise) circuit, [Solar bird](https://wiki.sgmk-ssam.ch/wiki/Solar_bird) circuit, ...)
 
 ### Basics
 - Parts (LED, Switch, Resistor, Battery, Cables)
@@ -52,6 +52,7 @@
 ### Resources
 - [Soldering is Easy](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) zine
 - [Make Electronics](https://archive.org/details/makeelectronicsl0000plat) book
+
 
 
 
