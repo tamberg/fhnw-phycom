@@ -29,7 +29,7 @@
 
 ### Resources
 - [Make A Prototype with Embedded ML](http://www.tamberg.org/bowen/2024/MakeAPrototypeWithEmbeddedML.pdf) slides
-- [Plusea's Prototypes](https://www.flickr.com/photos/plusea) fotos
+- [Plusea's prototypes](https://www.flickr.com/photos/plusea/albums) photo albums
 
 
 
