@@ -65,7 +65,7 @@ Thu|DIY-Project Inputs|Working
 Fri|DIY-Project Inputs|Presenting
 
 #### Specials
-> At HTU, all students are welcome.
+> At HTU, all participants are welcome.
 
 - Week 1, Mon, early: welcome coffee
 - Week 1, Thu (?), noon: free lunch
