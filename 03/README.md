@@ -45,6 +45,7 @@
 ### Skills
 - [ ] Sketch a design
 - [ ] Take measure
+- [ ] Iterate
 - [ ] ...
 
 ### Resources
