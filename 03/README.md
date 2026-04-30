@@ -28,8 +28,10 @@
 
 ### Tools
 - Hot glue gun
-- Scissors
+- Cutting mat
 - Cutter
+- Scissors
+- Pencil
 - ...
 
 ### Skills
