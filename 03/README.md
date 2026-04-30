@@ -24,6 +24,7 @@
 - Duct tape
 - Zip ties
 - Cardboard
+- Paper
 - ...
 
 ### Tools
@@ -32,10 +33,13 @@
 - Cutter
 - Scissors
 - Pencil
+- Ruler
 - ...
 
 ### Skills
-- [ ] Skill
+- [ ] Sketch a design
+- [ ] Take measure
+- [ ] ...
 
 ### Resources
 - [Make A Prototype with Embedded ML](http://www.tamberg.org/bowen/2024/MakeAPrototypeWithEmbeddedML.pdf) slides
