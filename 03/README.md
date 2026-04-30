@@ -24,13 +24,13 @@
 - Duct tape
 - Zip ties
 - Cardboard
-...
+- ...
 
 ### Tools
 - Hot glue gun
 - Scissors
 - Cutter
-...
+- ...
 
 ### Skills
 - [ ] Skill
