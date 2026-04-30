@@ -19,9 +19,17 @@
 ...
 
 ### Material
+- Hot glue sticks
+- Rubber bands
+- Duct tape
+- Zip ties
+- Cardboard
 ...
 
 ### Tools
+- Hot glue gun
+- Scissors
+- Cutter
 ...
 
 ### Skills
