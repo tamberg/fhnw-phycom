@@ -13,11 +13,13 @@
 ...
 
 ### Basics
-- Boxes
-- Spheres
+- Constraints
+- Enclosures
+- Switches
 - ...
 
 ### Advanced
+- Affordance
 - Adapters
 - Wearables
 - ...
