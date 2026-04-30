@@ -10,7 +10,7 @@
 - [Resources](#Resources)
 
 ### Motivation
-- https://github.com/tamberg/idea
+- [Ideation](https://github.com/tamberg/idea)
 
 ### Basics
 - Constraints
