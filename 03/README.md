@@ -48,7 +48,7 @@
 - [ ] Sketch a design
 - [ ] Build a thing
 - [ ] Take measure
-- [ ] Iterate
+- [ ] Iterate (again)
 - [ ] ...
 
 ### Resources
