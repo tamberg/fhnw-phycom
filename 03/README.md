@@ -13,10 +13,14 @@
 ...
 
 ### Basics
-...
+- Boxes
+- Spheres
+- ...
 
 ### Advanced
-...
+- Adapters
+- Wearables
+- ...
 
 ### Material
 - Hot glue sticks
