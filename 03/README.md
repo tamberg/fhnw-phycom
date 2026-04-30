@@ -43,7 +43,9 @@
 - ...
 
 ### Skills
+- [ ] Get some ideas
 - [ ] Sketch a design
+- [ ] Build a shape
 - [ ] Take measure
 - [ ] Iterate
 - [ ] ...
