@@ -25,7 +25,10 @@
 ...
 
 ### Skills
-- [ ] Skill
+- [ ] Blink an LED
+- [ ] Print "hello"
+- [ ] Read a button
+- [ ] Move a motor
 
 ### Resources
 - ...
