@@ -31,6 +31,7 @@
 - Zip ties
 - Cardboard
 - Paper
+- Paperclips
 - ...
 
 ### Tools
