@@ -64,6 +64,13 @@ Wed|DIY-Project Kick-off|Working
 Thu|DIY-Project Inputs|Working
 Fri|DIY-Project Inputs|Presenting
 
+#### Specials
+> At HTU, all students are welcome.
+
+- Week 1, Mon, early: welcome coffee
+- Week 1, Thu (?), noon: free lunch
+- Week 2, Fri, from 4pm: grill party
+
 ### Topics
 The course covers these topics.
 
