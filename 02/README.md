@@ -29,6 +29,7 @@
 - [ ] Print "hello"
 - [ ] Read a button
 - [ ] Move a motor
+- [ ] Make a dial
 
 ### Resources
 - ...
