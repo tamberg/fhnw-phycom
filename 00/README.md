@@ -49,7 +49,7 @@
 #### Week 1
 Day|Input|Making
 :---|:---|:---
-Mon|DIY-Electronics|Soldering
+Mon|Intro & DIY-Electronics|Soldering
 Tue|Embedded Programming|-
 Wed|Design & Ideation|Prototyping
 Thu|Digital Fabrication in 2D|Laser-cutting
