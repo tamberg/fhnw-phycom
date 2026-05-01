@@ -21,10 +21,9 @@
 ...
 
 ### Advanced
-- Building a light switch
-- Building a kitchen timer (state machine)
-- Using a UART device, e.g. GPS
-- Using a SPI sevice, e.g. display
+- Building a light switch (state machine)
+- Using a UART device, e.g. a GPS module
+- Using a SPI device, e.g. an SD card reader
 ...
 
 ### Material
