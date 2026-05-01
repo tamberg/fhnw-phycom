@@ -13,6 +13,7 @@
 ...
 
 ### Basics
+- Getting Started
 - Blinking an LED
 - Printing "hello"
 - Reading a button
