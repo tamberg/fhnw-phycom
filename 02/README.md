@@ -27,7 +27,7 @@
 - Using a GPS module via UART
 
 ### Material
-- [Feather M4 Express](wiki/Feather-M4-Express) microcontroller
+- [Feather M4 Express](../../wiki/Feather-M4-Express) microcontroller
 - USB C to micro cable
 - Sensors
 - Actuators
