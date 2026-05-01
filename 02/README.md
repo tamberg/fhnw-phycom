@@ -47,5 +47,5 @@
 - [ ] Debugging issues/errors
 
 ### Resources
-- [Microcontrollers, Sensors & Actuators](https://github.com/tamberg/fhnw-iot/tree/master/02) code / slides for Arduino
-- [Getting Started](https://github.com/fhnw-imvs/fhnw-idb/tree/master/introduction/CircuitPython) and [Data Acquisition](https://github.com/fhnw-imvs/fhnw-idb/tree/master/data-acquisition) code / slides for CircuitPython
+- [Microcontrollers, Sensors & Actuators](https://github.com/tamberg/fhnw-iot/tree/master/02) code and slides for Arduino
+- [Getting Started](https://github.com/fhnw-imvs/fhnw-idb/tree/master/introduction/CircuitPython) and [Data Acquisition](https://github.com/fhnw-imvs/fhnw-idb/tree/master/data-acquisition) code and slides for CircuitPython
