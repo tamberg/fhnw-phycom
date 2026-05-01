@@ -21,9 +21,10 @@
 ...
 
 ### Advanced
-- Building a light switch (state machine)
-- Using a UART device, e.g. a GPS module
-- Using a SPI device, e.g. an SD card reader
+- Building a light switch
+- Reading a sensor via I2C
+- Reading an SD card via SPI
+- Using a GPS module via UART
 ...
 
 ### Material
@@ -41,17 +42,10 @@
 
 ### Skills
 - [ ] Programming a microcontroller
-- [ ] Seeing output via USB Serial
+- [ ] Getting output via USB serial
 - [ ] Using a library for a sensor
-- [ ] Debugging an issue or error
+- [ ] Building a state machine
+- [ ] Debugging issues/errors
 
 ### Resources
 - ...
-
-
-
-
-
-
-
-
