@@ -47,4 +47,5 @@
 - [ ] Debugging issues/errors
 
 ### Resources
-- ...
+- [Microcontrollers, Sensors & Actuators](https://github.com/tamberg/fhnw-iot/tree/master/02) code & slides for Arduino
+- [Data Acquisition](https://github.com/fhnw-imvs/fhnw-idb/tree/master/data-acquisition) code & slides for CircuitPython
