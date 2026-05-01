@@ -41,7 +41,7 @@
 ### Skills
 - [ ] Programming a microcontroller
 - [ ] Getting output via USB serial
-- [ ] Installing/using a library
+- [ ] Installing and using a library
 - [ ] Building a state machine
 - [ ] Debugging issues/errors
 
