@@ -50,7 +50,7 @@
 Day|Input|Making
 :---|:---|:---
 Mon|Intro & DIY-Electronics|Soldering
-Tue|Embedded Programming|-
+Tue|Embedded Programming|Tinkering
 Wed|Design & Ideation|Prototyping
 Thu|Digital Fabrication in 2D|Laser-cutting
 Fri|Digital Fabrication in 3D|3D-printing
@@ -59,7 +59,7 @@ Fri|Digital Fabrication in 3D|3D-printing
 Day|Input|Making
 :---|:---|:---
 Mon|PCB-Layout|Etching or Milling
-Tue|Documentation & Sharing|-
+Tue|Documentation & Sharing|Exploring
 Wed|DIY-Project Kick-off|Working
 Thu|DIY-Project Inputs|Working
 Fri|DIY-Project Inputs|Presenting
