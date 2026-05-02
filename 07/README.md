@@ -27,7 +27,8 @@
 ...
 
 ### Tools
-...
+- Your computer
+- Your smartphone
 
 ### Skills
 - [ ] Documenting your work
