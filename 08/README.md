@@ -1,6 +1,6 @@
 # Physical Computing
 
-## Documentation & Sharing
+## DIY-Project & Presentation
 - [Motivation](#Motivation)
 - [Basics](#Basics)
 - [Advanced](#Advanced)
