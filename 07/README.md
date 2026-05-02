@@ -32,7 +32,7 @@
 - [ ] Skill
 
 ### Resources
-- [Open Source Definition](https://opensource.org/osd)
+- [Open source definition](https://opensource.org/osd)
 - [Choose a license](https://choosealicense.com) for source code
 - [Creative Commons](https://creativecommons.org/cc-licenses/) licenses
 - [Open source hardware 101](https://oshwa.org/oshw-101/)
