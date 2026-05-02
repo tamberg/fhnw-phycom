@@ -10,7 +10,7 @@
 - [Resources](#Resources)
 
 ### Motivation
-...
+- Hall of Fame (?)
 
 ### Basics
 ...
@@ -25,7 +25,9 @@
 ...
 
 ### Skills
-- [ ] Skill
+- [ ] Make
+- [ ] Learn
+- [ ] Share
 
 ### Resources
 - ...
