@@ -14,7 +14,7 @@
 
 ### Basics
 - Creating a project repo
-- Writing a tutorial
+- Writing a helpful tutorial
 - Taking usable pictures
 - Licensing source code
 
