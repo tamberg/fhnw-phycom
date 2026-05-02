@@ -21,6 +21,7 @@
 ### Advanced
 - Licensing photos, designs, etc.
 - Licensing open source hardware
+- Selling your hardware/product
 
 ### Material
 ...
