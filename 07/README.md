@@ -23,6 +23,7 @@
 ### Advanced
 - Licensing photos, designs, etc.
 - Licensing open source hardware
+- Hosting your own blog/website
 - Selling your hardware/product
 
 ### Material
