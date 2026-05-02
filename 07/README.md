@@ -33,9 +33,9 @@
 
 ### Resources
 - [Choose a license](https://choosealicense.com) for source code
-- [Creative Commons licenses](https://creativecommons.org/cc-licenses/]
+- [Creative Commons](https://creativecommons.org/cc-licenses/) licenses
 - [Open source hardware 101](https://oshwa.org/oshw-101/)
-- [CERN OHL](https://cern-ohl.web.cern.ch)
+- [CERN OHL](https://cern-ohl.web.cern.ch) license
 
 
 
