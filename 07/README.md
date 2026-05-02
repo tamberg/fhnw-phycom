@@ -29,7 +29,9 @@
 ...
 
 ### Skills
-- [ ] Skill
+- [ ] Documenting your work
+- [ ] Using existing works
+- [ ] Sharing your work
 
 ### Resources
 - [Open source definition](https://opensource.org/osd)
