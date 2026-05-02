@@ -24,11 +24,12 @@
 - Lessons learnt
 
 ### Material
-- Your project
+- Your work
 - Slides template
 
 ### Tools
-- Beamer
+- All known tools
+- Beamer w/ HDMI
 - Your computer
 
 ### Skills
