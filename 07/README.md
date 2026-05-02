@@ -13,12 +13,14 @@
 ...
 
 ### Basics
-- Create a project repo and add a README.md
-- [Choose a license](https://choosealicense.com) to share source code
+- Creating a project repo
+- Add a helpful README.md
+- Taking usable pictures
+- Licensing source code
 
 ### Advanced
-- [Creative Commons licenses](https://creativecommons.org/cc-licenses/) for photos, designs, etc.
-- [CERN OHL](https://cern-ohl.web.cern.ch) and other [open hardware](https://oshwa.org/oshw-101/) licenses
+- Licensing photos, designs, etc.
+- Licensing open source hardware
 
 ### Material
 ...
@@ -30,12 +32,10 @@
 - [ ] Skill
 
 ### Resources
-- ...
-
-
-
-
-
+- [Choose a license](https://choosealicense.com) for source code
+- [Creative Commons licenses](https://creativecommons.org/cc-licenses/]
+- [Open source hardware 101](https://oshwa.org/oshw-101/)
+- [CERN OHL](https://cern-ohl.web.cern.ch)
 
 
 
