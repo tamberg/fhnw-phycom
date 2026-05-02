@@ -14,7 +14,7 @@
 
 ### Basics
 - Creating a project repo
-- Add a helpful README.md
+- Writing a tutorial
 - Taking usable pictures
 - Licensing source code
 
