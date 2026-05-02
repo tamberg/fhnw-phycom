@@ -10,8 +10,8 @@
 - [Resources](#Resources)
 
 ### Motivation
+- [8-bit mixtape project](https://github.com/8BitMixtape/8Bit-Mixtape-NEO) on GitHub
 - [GaudiLabs projects](https://www.gaudi.ch/GaudiLabs/?page_id=19) on their blog
-- [Hackeria.org projects](https://www.hackteria.org/category/projects/) on their blog
 - [tamberg's projects](https://www.instructables.com/member/tamberg/) on Instructables
 
 ### Basics
