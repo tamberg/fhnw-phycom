@@ -30,8 +30,8 @@
 ### Material
 - Microcontroller, e.g. [Feather M4 Express](../../../wiki/Feather-M4-Express)
 - USB C to micro cable
-- Sensors
-- Actuators
+- Sensors, e.g. a button or [one of these](https://github.com/fhnw-imvs/fhnw-iot-library/tree/main/Hardware/Sensors)
+- Actuators, e.g. an LED or [one of these](https://github.com/fhnw-imvs/fhnw-iot-library/tree/main/Hardware/Actuators)
 - Breadboard
 - Wires
 
