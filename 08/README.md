@@ -13,9 +13,10 @@
 - Hall of Fame (?)
 
 ### Basics
-- Slides
-- Issues
-- Setup
+- Teams of 3 (?)
+- Find a use case
+- Build the project
+- Present the result
 
 ### Advanced
 - Live demo
@@ -24,6 +25,7 @@
 
 ### Material
 - Your project
+- Slides template
 
 ### Tools
 - Beamer
