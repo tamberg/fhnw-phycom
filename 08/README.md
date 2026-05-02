@@ -13,16 +13,18 @@
 - Hall of Fame (?)
 
 ### Basics
-...
+- Slides
+- Lessons learnt
 
 ### Advanced
-...
+- Live demo
 
 ### Material
-...
+- Your project
 
 ### Tools
-...
+- Beamer
+- Your computer
 
 ### Skills
 - [ ] Make
