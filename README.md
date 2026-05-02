@@ -13,6 +13,7 @@ Module [phycom](https://www.fhnw.ch/de/studium/module/9880131) by [@tamberg](htt
 5. [Digital Fabrication in 3D](05/README.md)
 6. [PCB-Layout & Production](06/README.md)
 7. [Documentation & Sharing](07/README.md)
+8. [DIY-Project & Presentation](08/README.md)
 
 ## Hardware
 TODO
