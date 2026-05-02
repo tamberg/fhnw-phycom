@@ -14,10 +14,13 @@
 
 ### Basics
 - Slides
-- Lessons learnt
+- Issues
+- Setup
 
 ### Advanced
 - Live demo
+- Link to docs
+- Lessons learnt
 
 ### Material
 - Your project
