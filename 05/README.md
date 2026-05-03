@@ -19,9 +19,10 @@
 - Printing it
 
 ### Advanced
+- Parametric designs
+- Multicolor prints
 - Designing snaps
 - Designing gears
-- Multicolor prints
 
 ### Material
 - Filament (PLA, PET, ...)
