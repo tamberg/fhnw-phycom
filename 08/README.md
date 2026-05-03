@@ -10,7 +10,7 @@
 - [Resources](#Resources)
 
 ### Motivation
-- Hall of Fame (?)
+- DIY game controller, e.g. [DIY 3D tilt sensor](https://www.instructables.com/DIY-3D-Tilt-Sensor/)
 
 ### Basics
 - Teams of 3 (?)
