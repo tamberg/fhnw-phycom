@@ -4,7 +4,7 @@
 - [Motivation](#Motivation)
 - [Basics](#Basics)
 - [Advanced](#Advanced)
-- [Material](#Material)
+- [Materials](#Materials)
 - [Tools](#Tools)
 - [Skills](#Skills)
 - [Resources](#Resources)
@@ -23,7 +23,7 @@
 - Link to docs
 - Lessons learnt
 
-### Material
+### Materials
 - Materials used so far
 - Slides template
 
