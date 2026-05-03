@@ -4,7 +4,7 @@
 - [Motivation](#Motivation)
 - [Basics](#Basics)
 - [Advanced](#Advanced)
-- [Material](#Material)
+- [Materials](#Materials)
 - [Tools](#Tools)
 - [Skills](#Skills)
 - [Resources](#Resources)
@@ -24,7 +24,7 @@
 - Wearables
 - ...
 
-### Material
+### Materials
 - Hot glue sticks
 - Rubber bands
 - Duct tape
