@@ -68,8 +68,8 @@ Fri|DIY-Project Inputs|Presenting
 > At HTU, all participants are welcome.
 
 - Week 1, Mon, early: welcome coffee
-- Week 1, Thu (?), noon: free lunch
-- Week 2, Fri, from 4pm: grill party
+- Week 1, Fri, noon: open lunch
+- Week 2, Fri, 4pm: grill party
 
 ### Topics
 The course covers these topics.
