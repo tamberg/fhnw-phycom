@@ -22,6 +22,7 @@
 - Live demo
 - Link to docs
 - Lessons learnt
+- Critical debate
 
 ### Materials
 - Materials used so far
