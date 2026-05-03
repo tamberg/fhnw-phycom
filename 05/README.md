@@ -10,7 +10,7 @@
 - [Resources](#Resources)
 
 ### Motivation
-- [Brushograph](https://wiki.sgmk-ssam.ch/wiki/Brushograph#Impressions_from_MechArtLab_Workshop) plotter
+- [Brushograph](https://wiki.sgmk-ssam.ch/wiki/Brushograph) plotter
 
 ### Basics
 - Designing simple parts
