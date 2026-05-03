@@ -4,7 +4,7 @@
 - [Motivation](#Motivation)
 - [Basics](#Basics)
 - [Advanced](#Advanced)
-- [Material](#Material)
+- [Materials](#Materials)
 - [Tools](#Tools)
 - [Skills](#Skills)
 - [Resources](#Resources)
@@ -30,7 +30,7 @@
 - Transistor (Switch low currents)
 - ICs (Transistors, H-bridge, ...)
 
-### Material
+### Materials
 - Solder mat
 - Solder
 - Solder wick
