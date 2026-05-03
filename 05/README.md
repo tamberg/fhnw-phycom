@@ -28,6 +28,7 @@
 - [ ] Skill
 
 ### Resources
+- [Design 3D Parts With OpenSCAD](http://www.tamberg.org/bowen/2024/Design3DPartsWithOpenSCAD.pdf)
 - [Design for 3D-printing](https://blog.rahix.de/design-for-3d-printing/) article
 
 
