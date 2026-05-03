@@ -8,6 +8,7 @@
 - [Location](#location)
 - [Presence](#presence)
 - [Program](#program)
+- [Specials](#specials)
 - [Topics](#topics)
 - [Structure](#structure)
 - [Audience](#audience)
