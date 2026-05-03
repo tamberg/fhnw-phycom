@@ -90,7 +90,7 @@ Each topic follows this structure.
 - Motivation — why this topic is relevant, illustrated with examples.
 - Basics — what you have to know to get started, important concepts.
 - Advanced — what brings you further, once you learned the basics.
-- Material — which material we provide to complete hands-on tasks.
+- Materials — which materials we provide to complete hands-on tasks.
 - Tools — which tools you can use to get some hands-on experience.
 - Skills — what you can learn by doing it yourself and with others.
 - Resources — where you find additional, high quality information.
