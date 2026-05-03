@@ -4,7 +4,7 @@
 - [Motivation](#Motivation)
 - [Basics](#Basics)
 - [Advanced](#Advanced)
-- [Material](#Material)
+- [Materials](#Materials)
 - [Tools](#Tools)
 - [Skills](#Skills)
 - [Resources](#Resources)
@@ -24,7 +24,7 @@
 - Designing snaps
 - Designing gears
 
-### Material
+### Materials
 - Filament (PLA, PET, ...)
 - Wire cutter
 - Tweezers
