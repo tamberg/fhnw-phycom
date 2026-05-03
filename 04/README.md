@@ -22,10 +22,12 @@
 ...
 
 ### Tools
-...
+- 2D CAD software (Inkscape, OpenSCAD, ...)
+- Laser-cutter
 
 ### Skills
-- [ ] Skill
+- [ ] Design
+- [ ] Cut
 
 ### Resources
 - ...
