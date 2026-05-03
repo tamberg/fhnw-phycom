@@ -69,7 +69,7 @@ Fri|DIY-Project Inputs|Presenting
 
 - Week 1, Mon, 07:45, welcome coffee
 - Week 1, Fri, 12:00, open lunch
-- Week 2, Fri, 16:00, grill party
+- Week 2, Fri, 16 - 18:00, grill party
 
 ### Topics
 The course covers these topics.
