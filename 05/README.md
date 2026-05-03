@@ -19,6 +19,7 @@
 - Printing it
 
 ### Advanced
+- Designing snaps
 - Designing gears
 - Multicolor prints
 
