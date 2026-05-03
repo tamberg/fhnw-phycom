@@ -13,10 +13,14 @@
 ...
 
 ### Basics
-...
+- Designing simple parts
+- Knowing constraints
+- Slicing a design
+- Printing it
 
 ### Advanced
-...
+- Designing gears
+- Multi-Layer prints
 
 ### Material
 - Filament (PLA, PET, ...)
@@ -24,7 +28,7 @@
 - Tweezers
 
 ### Tools
-- CAD Software, e.g. OpenSCAD
+- CAD Software, e.g. OpenSCAD or FreeCAD
 - Slicer Software, e.g. PrusaSlicer
 - 3D Printer, e.g. Prusa MINI+
 
@@ -36,7 +40,6 @@
 ### Resources
 - [Design 3D Parts With OpenSCAD](http://www.tamberg.org/bowen/2024/Design3DPartsWithOpenSCAD.pdf) slides
 - [Design for 3D-printing](https://blog.rahix.de/design-for-3d-printing/) article
-
 
 
 
