@@ -19,13 +19,19 @@
 ...
 
 ### Material
-...
+- Filament (PLA, PET, ...)
+- Wire cutter
+- Tweezers
 
 ### Tools
-...
+- CAD Software, e.g. OpenSCAD
+- Slicer Software, e.g. PrusaSlicer
+- 3D Printer, e.g. Prusa MINI+
 
 ### Skills
-- [ ] Skill
+- [ ] Design
+- [ ] Slice
+- [ ] Print
 
 ### Resources
 - [Design 3D Parts With OpenSCAD](http://www.tamberg.org/bowen/2024/Design3DPartsWithOpenSCAD.pdf) slides
