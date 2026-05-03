@@ -4,7 +4,7 @@
 - [Motivation](#Motivation)
 - [Basics](#Basics)
 - [Advanced](#Advanced)
-- [Material](#Material)
+- [Materials](#Materials)
 - [Tools](#Tools)
 - [Skills](#Skills)
 - [Resources](#Resources)
@@ -26,7 +26,7 @@
 - Hosting your own blog/website
 - Selling your hardware/product
 
-### Material
+### Materials
 ...
 
 ### Tools
