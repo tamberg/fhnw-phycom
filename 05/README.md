@@ -35,9 +35,9 @@
 - 3D Printer, e.g. Prusa MINI+
 
 ### Skills
-- [ ] Design
-- [ ] Slice
-- [ ] Print
+- [ ] Design a 3D object
+- [ ] Slice a 3D object
+- [ ] Print a 3D object
 
 ### Resources
 - [Design 3D Parts With OpenSCAD](http://www.tamberg.org/bowen/2024/Design3DPartsWithOpenSCAD.pdf) slides
