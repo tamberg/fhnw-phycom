@@ -40,6 +40,7 @@
 - [ ] Print a 3D object
 
 ### Resources
+- [OpenSCAD Cheat Sheet](https://openscad.org/cheatsheet/)
 - [Design 3D Parts With OpenSCAD](http://www.tamberg.org/bowen/2024/Design3DPartsWithOpenSCAD.pdf) slides
 - [Design for 3D-printing](https://blog.rahix.de/design-for-3d-printing/) article
 - [Reparieren im Haushalt](http://www.tamberg.org/zuerichlernt/2025/ReparierenImHaushaltMit3DGedrucktenTeilen.pdf) slides
