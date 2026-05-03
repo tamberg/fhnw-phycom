@@ -30,7 +30,7 @@
 - [ ] Cut
 
 ### Resources
-- ...
+- [Was ist ein FabLab?](http://www.tamberg.org/fablabzurich/2017/WasIstEinFabLab.pdf) slides
 
 
 
