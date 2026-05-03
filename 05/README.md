@@ -20,7 +20,7 @@
 
 ### Advanced
 - Designing gears
-- Multi-Layer prints
+- Multilayer prints
 
 ### Material
 - Filament (PLA, PET, ...)
