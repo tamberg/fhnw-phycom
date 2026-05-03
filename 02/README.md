@@ -4,7 +4,7 @@
 - [Motivation](#Motivation)
 - [Basics](#Basics)
 - [Advanced](#Advanced)
-- [Material](#Material)
+- [Materials](#Materials)
 - [Tools](#Tools)
 - [Skills](#Skills)
 - [Resources](#Resources)
@@ -27,7 +27,7 @@
 - Reading an SD card via SPI
 - Using a GPS module via UART
 
-### Material
+### Materials
 - Microcontroller, e.g. [Feather M4 Express](../../../wiki/Feather-M4-Express)
 - USB C to micro cable
 - Sensors, e.g. a button or [one of these](https://github.com/fhnw-imvs/fhnw-iot-library/tree/main/Hardware/Sensors)
