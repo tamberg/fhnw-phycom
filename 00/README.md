@@ -45,6 +45,7 @@
 
 - The course consists of inputs and hands-on making sessions.
 - We will use specific tools available in a typical makerspace.
+- We count on you all to share your experience and/or perspective.
 
 ### Program
 #### Week 1
