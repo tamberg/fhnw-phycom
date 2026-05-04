@@ -137,19 +137,19 @@
 
   Each topic follows this structure
 
-  - Motivation — why this is relevant, by example
-  - Basics — what you have to know, to get started
-  - Advanced — what brings you further, after basics
-  - Materials — what we provide to do hands-on tasks
-  - Tools — which tools you can use to get experience
-  - Skills — what you can learn by doing it yourself
-  - Resources — where you find more, quality info
+  - Motivation, why this is relevant, by example
+  - Basics, what you have to know, to get started
+  - Advanced, what brings you further, after basics
+  - Materials, what we provide to do hands-on tasks
+  - Tools, which tools you can use to get experience
+  - Skills, what you can learn by doing it yourself
+  - Resources, where you find more, quality info
 
 +
 
   # Audience
 
-  - This course can be attedned by students 
+  - This course can be attended by students 
     from both, HSI and HTU
   - Basic knowledge of either programming 
     or electronics might help
