@@ -1,6 +1,7 @@
 # Physical Computing
-Also available as [slides.txt](slides.txt) and [.pdf](slides.pdf)
 ## Syllabus & Overview
+Also available as [slides.txt](slides.txt) and [.pdf](slides.pdf)
+
 - [Description](#description)
 - [Language](#language)
 - [Credits](#credits)
