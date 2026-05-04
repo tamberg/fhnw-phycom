@@ -1,4 +1,5 @@
 # Physical Computing
+Also available as [slides.txt](slides.txt)
 ## Syllabus & Overview
 - [Description](#description)
 - [Language](#language)
