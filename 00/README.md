@@ -38,8 +38,8 @@ Also available as [slides.txt](slides.txt)
 - 15 minute breaks, roughly once an hour.
 
 ### Location
-- Input — usually at the classroom, Room [TBA].
-- Making  — usually at the makerspace, Room [TBA].
+- Input, usually at the classroom, Room 4.513
+- Making, usually at the makerspace, Room 4.125
 
 ### Presence
 > Students are expected to be present for the entire two weeks.
