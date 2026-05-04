@@ -2,6 +2,8 @@
 ## Syllabus & Overview
 Also available as [slides.txt](slides.txt) and [.pdf](slides.pdf)
 
+### Contents
+
 - [Description](#description)
 - [Language](#language)
 - [Credits](#credits)
