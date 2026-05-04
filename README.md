@@ -5,15 +5,15 @@ Module [phycom](https://www.fhnw.ch/de/studium/module/9880131) by [@tamberg](htt
 > Be excellent to each other — seid exzellent zueinander!
 
 ## Topics
-0. [Syllabus & Overview](00/README.md)
-1. [DIY-Electronics & Soldering](01/README.md)
-2. [Embedded Programming](02/README.md)
-3. [Ideation & Prototyping](03/README.md)
-4. [Digital Fabrication in 2D](04/README.md)
-5. [Digital Fabrication in 3D](05/README.md)
-6. [PCB-Layout & Production](06/README.md)
-7. [Documentation & Sharing](07/README.md)
-8. [DIY-Project & Presentation](08/README.md)
+0. [Syllabus & Overview](00_SyllabusAndOverview/README.md)
+1. [DIY-Electronics & Soldering](01_DIYElectronicsAndSoldering/README.md)
+2. [Embedded Programming](02_EMbeddedProgramming/README.md)
+3. [Ideation & Prototyping](03_IdeationAndPrototyping/README.md)
+4. [Digital Fabrication in 2D](04_DigitalFabricationIn2D/README.md)
+5. [Digital Fabrication in 3D](05_DigitalFabricationIn3D/README.md)
+6. [PCB-Layout & Production](06_PCBLayoutAndProduction/README.md)
+7. [Documentation & Sharing](07_DocumentationAndSharing/README.md)
+8. [DIY-Project & Presentation](08_DIYProjectAndPresentation/README.md)
 
 ## Hardware
 TODO
