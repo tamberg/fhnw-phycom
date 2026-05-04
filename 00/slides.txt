@@ -1,0 +1,166 @@
++
+
+ # Physical Computing
+
+ ## Syllabus & Overview
+
+ Licensed CC BY-SA 4.0,
+ @tamberg & @dusjagr
+
+
+ * Min res 56x16 char
+
++
+
+ # Contents
+
+ - Description   - Program
+ - Language      - Specials
+ - Credits       - Topics
+ - Date          - Structure
+ - Time          - Audience
+ - Location      - Contact
+ - Presence
+
++
+
+ # Description
+
+ - Module phycom
+
+ * https://www.fhnw.ch/de/studium/module/9880131
+
++
+
+ # Language
+
+ - Inputs in class are in German (DE)
+ - Course materials are in English (EN)
+ - Your contribution can be in DE or EN
+
++
+
+ # Credits
+
+ - 3 ECTS
+ - Pass/fail
+ - No grades
+
++
+
+ # Date
+
+ - Week 1, KW24, 08.06. - 12.06.2026
+ - Week 2, KW25, 15.06. - 19.06.2026
+
++
+
+ # Time
+
+ - 09:15 - 12:00, 3 hours in the morning
+ - 13:15 - 18:00, 5 hours in the afternoon
+ - 15 minute breaks, roughly once an hour
+
++
+
+ # Location
+
+ - Input — usually at the classroom, Room [TBA]
+ - Making  — usually at the makerspace, Room [TBA]
+
++
+
+ # Presence
+
+ > Students are expected to be present 
+   for the entire two weeks
+
+ - The course consists of inputs and 
+   hands-on making sessions
+ - We will use specific tools available 
+   in a typical makerspace
+ - We count on you all to share your 
+   experience/perspective
+
++
+
+ # Program Week 1
+
+ Day   Input                       Making
+
+ Mon   Intro & DIY-Electronics     Soldering
+ Tue   Embedded Programming        Tinkering
+ Wed   Design & Ideation           Prototyping
+ Thu   Digital Fabrication in 2D   Laser-cutting
+ Fri   Digital Fabrication in 3D   3D-printing
+
++
+
+ # Program Week 2
+
+ Day   Input                       Making
+
+ Mon   PCB-Layout                  Etching
+ Tue   Documentation & Sharing     Exploring
+ Wed   DIY-Project Kick-off        Working
+ Thu   DIY-Project Inputs          Working
+ Fri   DIY-Project Inputs          Presenting
+
++
+
+ # Program Specials
+
+ > At HTU, all participants are welcome
+
+ - Week 1, Mon, 07:45, welcome coffee
+ - Week 1, Fri, 12:00, open lunch (BYO)
+ - Week 2, Fri, 16 - 18:00, grill party
+
++
+
+ # Topics
+
+ 0. Syllabus & Overview
+ 1. DIY-Electronics & Soldering
+ 2. Embedded Programming
+ 3. Design, Ideation & Prototyping
+ 4. Digital Fabrication in 2D
+ 5. Digital Fabrication in 3D
+ 6. PCB-Layout & Production
+ 7. Documentation & Sharing
+ 8. DIY-Project & Presentation
+
++
+
+ # Structure
+
+ Each topic follows this structure
+
+ - Motivation — why this is relevant, by example
+ - Basics — what you have to know, to get started
+ - Advanced — what brings you further, after basics
+ - Materials — what we provide to do hands-on tasks
+ - Tools — which tools you can use to get experience
+ - Skills — what you can learn by doing it yourself
+ - Resources — where you find more, quality info
+
++
+
+ # Audience
+
+ - This course can be attedned by students 
+   from both, HSI and HTU
+ - Basic knowledge of either programming 
+   or electronics might help
+ - If you are not sure if this course is 
+   for you, consider contacting us
+
++
+
+ # Contact
+
+ - Contact us via MS Teams or email 
+   thomas.amberg@fhnw.ch
+
++
++
