@@ -57,7 +57,7 @@
 ### Resources
 - [Soldering is Easy](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) zine
 - [Make Electronics](https://archive.org/details/makeelectronicsl0000plat) book
-
+- [Jeri Ellesworth's homebrew NMOS transistor](https://www.youtube.com/watch?v=w_znRopGtbE) video
 
 
 
