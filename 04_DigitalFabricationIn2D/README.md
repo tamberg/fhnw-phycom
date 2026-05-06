@@ -10,7 +10,7 @@
 - [Resources](#Resources)
 
 ### Motivation
-...
+- [Button panel](https://www.thingiverse.com/thing:5933117) design
 
 ### Basics
 - 2D design (SVG, DXF, PDF, ...)
