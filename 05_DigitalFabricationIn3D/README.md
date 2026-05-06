@@ -20,8 +20,8 @@
 
 ### Advanced
 - Parametric designs
-- Designing snaps
 - Designing gears
+- Snap-fit joints
 - Multicolor prints
 
 ### Materials
