@@ -10,7 +10,7 @@
 - [Resources](#Resources)
 
 ### Motivation
-- [Brushograph](https://wiki.sgmk-ssam.ch/wiki/Brushograph) plotter
+- [Brushograph](https://wiki.sgmk-ssam.ch/wiki/Brushograph) plotter w/ 3D printed parts
 
 ### Basics
 - Designing simple parts
@@ -30,9 +30,9 @@
 - Tweezers
 
 ### Tools
-- CAD Software, e.g. OpenSCAD or FreeCAD
-- Slicer Software, e.g. PrusaSlicer
-- 3D Printer, e.g. Prusa MINI+
+- CAD software, e.g. OpenSCAD or FreeCAD
+- Slicer software, e.g. PrusaSlicer
+- 3D printer, e.g. Prusa MINI+
 
 ### Skills
 - [ ] Design a 3D object
