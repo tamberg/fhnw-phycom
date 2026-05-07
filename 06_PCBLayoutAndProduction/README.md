@@ -28,6 +28,7 @@
 - [ ] Skill
 
 ### Resources
+- [#MakeZurich Badge 2023](http://www.tamberg.org/makezurich/2023/MakeZurichBadge2023.pdf) slides
 - ...
 
 
