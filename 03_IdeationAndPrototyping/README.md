@@ -10,7 +10,7 @@
 - [Resources](#Resources)
 
 ### Motivation
-- [Ideation](https://github.com/tamberg/idea)
+- [Idea generator](https://github.com/tamberg/idea) software
 
 ### Basics
 - Constraints
