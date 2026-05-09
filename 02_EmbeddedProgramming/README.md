@@ -32,6 +32,7 @@
 - USB C to micro cable
 - Sensors, e.g. a button or [one of these](https://github.com/fhnw-imvs/fhnw-iot-library/tree/main/Hardware/Sensors)
 - Actuators, e.g. an LED or [one of these](https://github.com/fhnw-imvs/fhnw-iot-library/tree/main/Hardware/Actuators)
+- Grove adapter cable (optional)
 - Breadboard
 - Wires
 
