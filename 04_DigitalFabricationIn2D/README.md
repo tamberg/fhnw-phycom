@@ -36,7 +36,7 @@ _Laser-cut panel with arcade buttons_
 - ...
 
 ### Tools
-> Safety: When cutting, stay close!
+> Safety: No unattended cutting, risk of fire!
 
 - 2D CAD software (Inkscape, OpenSCAD, ...)
 - Online box generator
