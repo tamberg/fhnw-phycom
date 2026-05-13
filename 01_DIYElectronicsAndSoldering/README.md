@@ -17,7 +17,7 @@ _Soldering an electronic circuit, SGMK style_
 - [I can solder](https://www.tindie.com/products/PartFusion/i-can-solder-badge-v1/) badge, by Robert Fitzsimons
 - [Micro-noise](https://wiki.sgmk-ssam.ch/wiki/Micronoise) analogue circuit, by SGMK
 - [Solar bird](https://wiki.sgmk-ssam.ch/wiki/Solar_bird) analogue circuit, by SGMK
-- [Beepsy](https://www.flickr.com/photos/tamberg/52800892033) electronics tool, by Michi Egger
+- [Beepsy](https://www.flickr.com/photos/tamberg/52800892033) tool, by Michi Egger
 
 ### Basics
 - Parts (LED, Switch, Resistor, Power source, Cables)
