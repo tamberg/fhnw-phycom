@@ -29,7 +29,7 @@ _Laser-cut panel with arcade buttons_
 - ...
 
 ### Materials
-> Safety: No PVC, fumes are toxic!
+> Safety: No PVC, fumes are toxic and corrosive!
 
 - Plywood
 - Acrylic
