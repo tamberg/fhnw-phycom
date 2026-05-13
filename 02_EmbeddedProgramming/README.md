@@ -1,6 +1,8 @@
 # Physical Computing
 
 ## Embedded Programming
+
+### Contents
 - [Motivation](#Motivation)
 - [Basics](#Basics)
 - [Advanced](#Advanced)
