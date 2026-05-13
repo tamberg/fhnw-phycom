@@ -15,7 +15,7 @@ _Laser-cut panel with arcade buttons_
 
 ### Motivation
 - [Button panel](https://www.thingiverse.com/thing:5933117) design, by @tamberg
-- [NICS map](https://github.com/tamberg/nics/tree/main) project, by @tamberg
+- [NICs map](https://github.com/tamberg/nics/tree/main) project, by @tamberg
 
 ### Basics
 - 2D design (SVG, DXF, PDF, ...)
