@@ -1,7 +1,7 @@
 # Physical Computing
 
 ## DIY-Electronics & Soldering
-<img src="https://live.staticflickr.com/65535/54493807935_8e7b28458f_z.jpg" width="540" alt="Soldering an electronic circuit, SGMK style"/><br/>
+<img src="https://live.staticflickr.com/65535/54493807935_8e7b28458f_z.jpg" width="540" alt="Hand, soldering a switch to a battery-powered, live electronic circuit"/><br/>
 _Soldering an electronic circuit, SGMK style_
 
 ### Contents
