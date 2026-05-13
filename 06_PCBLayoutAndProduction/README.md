@@ -1,6 +1,9 @@
 # Physical Computing
 
 ## PCB-Layout & Production
+<img src="https://live.staticflickr.com/65535/52799884762_df4c2b0bc6_z.jpg" width="540" alt="A custom CO2 sensor breakout board"/><br/>
+_A custom CO2 sensor breakout board_
+
 ### Contents
 - [Motivation](#Motivation)
 - [Basics](#Basics)
