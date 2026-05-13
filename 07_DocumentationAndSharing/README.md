@@ -28,7 +28,10 @@
 - Selling your hardware/product
 
 ### Materials
-...
+- Git repos
+- Web pages
+- Web shops
+- Platforms
 
 ### Tools
 - Your computer
