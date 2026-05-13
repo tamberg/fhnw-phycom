@@ -15,9 +15,6 @@ Module [phycom](https://www.fhnw.ch/de/studium/module/9880131) by [@tamberg](htt
 7. [Documentation & Sharing](07_DocumentationAndSharing/README.md)
 8. [DIY-Project & Presentation](08_DIYProjectAndPresentation/README.md)
 
-## Hardware
-TODO
-
 ## License
 Unless noted otherwise:
 
