@@ -10,7 +10,7 @@
 - [Resources](#Resources)
 
 ### Motivation
-...
+- [Massimo Banzi on Arduino](https://www.youtube.com/watch?v=UoBUXOOdLXY) video
 
 ### Basics
 - Getting started
