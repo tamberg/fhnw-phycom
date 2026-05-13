@@ -49,7 +49,7 @@
 - [ ] Debugging issues/errors
 
 ### Resources
-- [Microcontrollers, Sensors & Actuators](https://github.com/tamberg/fhnw-iot/tree/master/02) code and slides for Arduino by @tamberg
-- [Getting Started](https://github.com/fhnw-imvs/fhnw-idb/tree/master/introduction/CircuitPython) and [Data Acquisition](https://github.com/fhnw-imvs/fhnw-idb/tree/master/data-acquisition) code and slides for CircuitPython by @tamberg & J. Luthiger
+- [Microcontrollers, Sensors & Actuators](https://github.com/tamberg/fhnw-iot/tree/master/02) with Arduino, tutorial by @tamberg
+- [Getting Started](https://github.com/fhnw-imvs/fhnw-idb/tree/master/introduction/CircuitPython) and [Data Acquisition](https://github.com/fhnw-imvs/fhnw-idb/tree/master/data-acquisition) with CircuitPython, tutorial by @tamberg & J. Luthiger
 - [Making Embedded Systems](https://www.oreilly.com/library/view/making-embedded-systems/9781098151539/) book by Elecia White
-- [Making Things Talk](https://www.oreilly.com/library/view/making-things-talk/9781449314668/) book by Tome Igoe
+- [Making Things Talk](https://www.oreilly.com/library/view/making-things-talk/9781449314668/) book by Tom Igoe
