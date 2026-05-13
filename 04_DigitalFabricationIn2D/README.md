@@ -29,14 +29,14 @@ _Laser-cut panel with arcade buttons_
 - ...
 
 ### Materials
-> Safety: No PVC!
+> Safety: No PVC, fumes are toxic!
 
 - Plywood
 - Acrylic
 - ...
 
 ### Tools
-> Safety: Watch when cutting!
+> Safety: When cutting, stay close!
 
 - 2D CAD software (Inkscape, OpenSCAD, ...)
 - Online box generator
