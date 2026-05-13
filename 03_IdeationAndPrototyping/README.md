@@ -53,5 +53,5 @@
 
 ### Resources
 - [Make A Prototype with Embedded ML](http://www.tamberg.org/bowen/2024/MakeAPrototypeWithEmbeddedML.pdf) slides, by @tamberg
-- [Prototypes](https://www.flickr.com/photos/plusea/albums) photo albums, by Plusea
+- [Plusea's Prototypes](https://www.flickr.com/photos/plusea/albums) photo albums, by Hannah Perner-Wilson
 - [Taxonomy of non-conventional objects](https://www.flickr.com/photos/tamberg/10072620183), by Bruce Sterling
