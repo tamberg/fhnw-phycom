@@ -1,7 +1,7 @@
 # Physical Computing
 
 ## DIY-Electronics & Soldering
-<img src="https://live.staticflickr.com/65535/54493807935_8e7b28458f_z.jpg" width="540" alt="Hand, soldering a DIY circuit"/><br/>
+<img src="https://www.flickr.com/photos/tamberg/54493807935/" width="540" alt="Hand, soldering a DIY circuit"/><br/>
 <i>Soldering SGMK style, [photo](https://www.flickr.com/photos/tamberg/54493807935/) by @tamberg, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</i>
 
 ### Contents
