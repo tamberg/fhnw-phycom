@@ -1,6 +1,7 @@
 # Physical Computing
 
 ## Digital Fabrication in 2D
+### Contents
 - [Motivation](#Motivation)
 - [Basics](#Basics)
 - [Advanced](#Advanced)
