@@ -1,6 +1,7 @@
 # Physical Computing
 
 ## Documentation & Sharing
+### Contents
 - [Motivation](#Motivation)
 - [Basics](#Basics)
 - [Advanced](#Advanced)
