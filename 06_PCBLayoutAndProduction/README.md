@@ -10,8 +10,8 @@
 - [Resources](#Resources)
 
 ### Motivation
-- [8-bit mixtape project](https://github.com/8BitMixtape/8Bit-Mixtape-NEO) on GitHub
-- [#MakeZurich Badge 2023](http://www.tamberg.org/makezurich/2023/MakeZurichBadge2023.pdf) slides
+- [8-bit mixtape project](https://github.com/8BitMixtape/8Bit-Mixtape-NEO) on GitHub, by @dusjagr
+- [#MakeZurich Badge 2023](http://www.tamberg.org/makezurich/2023/MakeZurichBadge2023.pdf) slides, by @tamberg
 
 ### Basics
 ...
