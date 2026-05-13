@@ -10,8 +10,10 @@
 - [Resources](#Resources)
 
 ### Motivation
-- Basic circuits with parts (Light switch in the room, [I can solder](https://www.tindie.com/products/PartFusion/i-can-solder-badge-v1/) badge, [Beepsy](https://www.flickr.com/photos/tamberg/52800892033) tool, ...)
-- Advanced circuits with ICs ([Micro-noise](https://wiki.sgmk-ssam.ch/wiki/Micronoise) circuit, [Solar bird](https://wiki.sgmk-ssam.ch/wiki/Solar_bird) circuit, ...)
+- [I can solder](https://www.tindie.com/products/PartFusion/i-can-solder-badge-v1/) badge
+- [Micro-noise](https://wiki.sgmk-ssam.ch/wiki/Micronoise) circuit, by SGMK
+- [Solar bird](https://wiki.sgmk-ssam.ch/wiki/Solar_bird) circuit, by SGMK
+- [Beepsy](https://www.flickr.com/photos/tamberg/52800892033) tool, by Michi Egger
 
 ### Basics
 - Parts (LED, Switch, Resistor, Power source, Cables)
