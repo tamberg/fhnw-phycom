@@ -9,6 +9,8 @@
 - [Skills](#Skills)
 - [Resources](#Resources)
 
+<img src="https://live.staticflickr.com/65535/54493807935_8e7b28458f_z.jpg" width="540"/>
+
 ### Motivation
 - [I can solder](https://www.tindie.com/products/PartFusion/i-can-solder-badge-v1/) badge, by Robert Fitzsimons
 - [Micro-noise](https://wiki.sgmk-ssam.ch/wiki/Micronoise) circuit, by SGMK
