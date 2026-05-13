@@ -11,6 +11,7 @@
 
 ### Motivation
 - [Massimo Banzi on Arduino](https://www.youtube.com/watch?v=UoBUXOOdLXY) video
+- [Awesome CircuitPython](https://circuitpython.org/awesome) website
 
 ### Basics
 - Getting started
