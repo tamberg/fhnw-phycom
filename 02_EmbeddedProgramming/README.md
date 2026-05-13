@@ -1,6 +1,8 @@
 # Physical Computing
 
 ## Embedded Programming
+<img src="https://live.staticflickr.com/65535/51876045727_a1ce204fe5_z.jpg" width="540" alt="A microcontroller with sensors & actuators"/><br/>
+_A microcontroller with sensors & actuators_
 
 ### Contents
 - [Motivation](#Motivation)
