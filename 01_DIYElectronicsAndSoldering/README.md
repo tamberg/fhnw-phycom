@@ -10,7 +10,7 @@
 - [Resources](#Resources)
 
 ### Motivation
-- [I can solder](https://www.tindie.com/products/PartFusion/i-can-solder-badge-v1/) badge
+- [I can solder](https://www.tindie.com/products/PartFusion/i-can-solder-badge-v1/) badge, by Robert Fitzsimons
 - [Micro-noise](https://wiki.sgmk-ssam.ch/wiki/Micronoise) circuit, by SGMK
 - [Solar bird](https://wiki.sgmk-ssam.ch/wiki/Solar_bird) circuit, by SGMK
 - [Beepsy](https://www.flickr.com/photos/tamberg/52800892033) tool, by Michi Egger
