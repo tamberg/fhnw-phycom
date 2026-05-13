@@ -1,6 +1,9 @@
 # Physical Computing
 
 ## Ideation & Prototyping
+<img src="https://live.staticflickr.com/65535/51642376339_fdcf62bb6a_z.jpg" width="540" alt="A kitchen timer prototype"/><br/>
+_A kitchen timer prototype_
+
 ### Contents
 - [Motivation](#Motivation)
 - [Basics](#Basics)
