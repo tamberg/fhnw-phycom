@@ -2,7 +2,7 @@
 
 ## DIY-Electronics & Soldering
 <img src="https://live.staticflickr.com/65535/54493807935_8e7b28458f_z.jpg" width="540" alt="Soldering a DIY electronics circuit"/><br/>
-_Soldering a DIY electronics circuit_
+_Soldering a DIY-electronics circuit_
 
 ### Contents
 - [Motivation](#Motivation)
