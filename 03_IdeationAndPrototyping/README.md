@@ -1,6 +1,7 @@
 # Physical Computing
 
 ## Ideation & Prototyping
+### Contents
 - [Motivation](#Motivation)
 - [Basics](#Basics)
 - [Advanced](#Advanced)
