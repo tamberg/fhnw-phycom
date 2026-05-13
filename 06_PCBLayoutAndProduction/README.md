@@ -14,6 +14,7 @@ _A custom CO2 sensor breakout board_
 - [Resources](#Resources)
 
 ### Motivation
+- [UROS CO2 breakout](https://github.com/GenericLab/UROS-CO2_breakout) on GitHub, by @dusjagr
 - [8-bit mixtape project](https://github.com/8BitMixtape/8Bit-Mixtape-NEO) on GitHub, by @dusjagr et al.
 - [#MakeZurich Badge 2023](http://www.tamberg.org/makezurich/2023/MakeZurichBadge2023.pdf) slides, by @tamberg
 
