@@ -1,8 +1,7 @@
 # Physical Computing
 
 ## Digital Fabrication in 3D
-<img src="https://live.staticflickr.com/65535/54925317400_6d7eb203e1_z.jpg" width="540" alt="3D-printed mechanism with motor"/>
-
+<img src="https://live.staticflickr.com/65535/54925317400_6d7eb203e1_z.jpg" width="540" alt="3D-printed mechanism with motor"/><br/>
 _3d-printed linear gear mechanism with motor_
 
 ### Contents
