@@ -48,7 +48,7 @@
 - [Creative Commons](https://creativecommons.org/cc-licenses/) licenses
 - [Open source hardware 101](https://oshwa.org/oshw-101/)
 - [CERN OHL](https://cern-ohl.web.cern.ch) license
-- [W3C WAI images](https://www.w3.org/WAI/tutorials/images/) tutorial
+- [W3C WAI image alt text](https://www.w3.org/WAI/tutorials/images/) tutorial
 
 
 
