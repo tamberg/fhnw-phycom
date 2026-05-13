@@ -50,4 +50,5 @@
 ### Resources
 - [Microcontrollers, Sensors & Actuators](https://github.com/tamberg/fhnw-iot/tree/master/02) code and slides for Arduino
 - [Getting Started](https://github.com/fhnw-imvs/fhnw-idb/tree/master/introduction/CircuitPython) and [Data Acquisition](https://github.com/fhnw-imvs/fhnw-idb/tree/master/data-acquisition) code and slides for CircuitPython
+- [Making Things Talk](https://www.oreilly.com/library/view/making-things-talk/9781449314668/) book
 - [Making Embedded Systems](https://www.oreilly.com/library/view/making-embedded-systems/9781098151539/) book
