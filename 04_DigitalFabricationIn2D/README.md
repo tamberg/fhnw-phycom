@@ -36,6 +36,8 @@ _Laser-cut panel with arcade buttons_
 - ...
 
 ### Tools
+> Safety: Watch when cutting!
+
 - 2D CAD software (Inkscape, OpenSCAD, ...)
 - Online box generator
 - Laser-cutter
