@@ -2,7 +2,7 @@
 
 ## DIY-Electronics & Soldering
 <img src="https://live.staticflickr.com/65535/54493807935_8e7b28458f_z.jpg" width="540" alt="Soldering an electronic circuit"/><br/>
-_Soldering an electronic circuit_
+_Soldering an electronic circuit, SGMK style_
 
 ### Contents
 - [Motivation](#Motivation)
