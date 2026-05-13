@@ -10,7 +10,7 @@
 - [Resources](#Resources)
 
 ### Motivation
-- [Brushograph](https://wiki.sgmk-ssam.ch/wiki/Brushograph) plotter w/ 3D printed parts
+- [Brushograph](https://wiki.sgmk-ssam.ch/wiki/Brushograph) plotter w/ 3D printed parts, by Dominik Mahnič, @dusjagr et. al
 
 ### Basics
 - Designing simple parts
