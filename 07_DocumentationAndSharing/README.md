@@ -1,6 +1,9 @@
 # Physical Computing
 
 ## Documentation & Sharing
+<img src="https://live.staticflickr.com/65535/54758010076_5ff176fcb0_z.jpg" width="540" alt="Neatly arranged parts, to be assembled"/><br/>
+_Neatly arranged parts, to be assembled_
+
 ### Contents
 - [Motivation](#Motivation)
 - [Basics](#Basics)
