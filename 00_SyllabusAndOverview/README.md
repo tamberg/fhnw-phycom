@@ -102,8 +102,6 @@ Each topic follows this structure.
 - Skills — what you can learn by doing it yourself and with others.
 - Resources — where you find additional, high quality information.
 
-+
-
 ### Materials
 
 - [Template repo](https://github.com/tamberg/fhnw-phycom), as a starting point
