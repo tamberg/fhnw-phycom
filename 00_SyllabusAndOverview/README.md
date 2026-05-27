@@ -15,6 +15,7 @@ Also available as [slides.pdf](slides.pdf) and [.txt](slides.txt)
 - [Specials](#specials)
 - [Topics](#topics)
 - [Structure](#structure)
+- [Materials](#materials)
 - [Audience](#audience)
 - [Contact](#contact)
 
@@ -100,6 +101,14 @@ Each topic follows this structure.
 - Tools — which tools you can use to get some hands-on experience.
 - Skills — what you can learn by doing it yourself and with others.
 - Resources — where you find additional, high quality information.
+
++
+
+### Materials
+
+- [Template repo](https://github.com/tamberg/fhnw-phycom), as a starting point
+- Box of tools per team, to be returned
+- Making materials, to be used responsibly
 
 ### Audience
 - This course can be attedned by students from both, [HSI](https://fhnw.ch/hsi) and [HTU](https://fhnw.ch/htu).
