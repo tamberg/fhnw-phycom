@@ -14,13 +14,14 @@
 
   # Contents
 
-  - Description   - Program
-  - Language      - Specials
-  - Credits       - Topics
-  - Date          - Structure
-  - Time          - Materials
-  - Location      - Audience
-  - Presence      - Contact
+  - Description   - Conduct
+  - Language      - Program
+  - Credits       - Specials
+  - Date          - Topics
+  - Time          - Structure
+  - Location      - Materials
+  - Presence      - Audience
+  - Absence       - Contact
 
 +
 
@@ -44,7 +45,8 @@
   # Credits
 
   - 3 ECTS, 2 * 5 days, 8 + 1 hours a day
-  - 3 joker hours, ask in advance
+  - Presence, active participation
+  - DIY-project, teams of 2
   - Pass/fail, no grades
 
 +
@@ -82,6 +84,26 @@
     in a typical makerspace
   - We count on you all to share your 
     experience/perspective
+
++
+
+  # Absence
+
+  - Max 3 "joker" hours
+  - Have a good reason
+  - Ask us in advance
+  - Get confirmation
+  - Make up for it
+
++
+
+  # Conduct
+
+  > Be excellent to each other
+
+  - Actively participate
+  - Ask for / give help
+  - Respect boundaries
 
 +
 
