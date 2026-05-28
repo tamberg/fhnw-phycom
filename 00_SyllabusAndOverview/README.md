@@ -30,10 +30,10 @@ Also available as [slides.pdf](slides.pdf) and [.txt](slides.txt)
 - Your contribution can be in DE or EN.
 
 ### Credits
-- 3 ECTS, 2 * 5 days, 8 + 1 hours a day
-- Presence, active participation
-- DIY-project, teams of 2
-- Pass/fail, no grades
+- 3 ECTS, 2 * 5 days, 8 + 1 hours a day.
+- Presence, active participation.
+- DIY-project, teams of 2.
+- Pass/fail, no grades.
     
 ### Date
 - Week 1, KW24, 08.06. - 12.06.2026.
