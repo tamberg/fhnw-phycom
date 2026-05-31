@@ -15,7 +15,7 @@
 - DIY USB HID device, e.g. [DIY space mouse](https://www.youtube.com/watch?v=62xlzGs8LXA) by Salim Benbouziyane
 
 ### Basics
-- Teams of 3 (?)
+- Teams of 2 (?)
 - Find a use case
 - Build the project
 - Present the result
