@@ -63,7 +63,6 @@ _Soldering an electronic circuit, SGMK style_
 ### Resources
 - [Soldering is Easy](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) zine, by Mitch Altman et al.
 - [Make Electronics](https://archive.org/details/makeelectronicsl0000plat) book, by Charles Platt
-- [Homebrew NMOS transistor](https://www.youtube.com/watch?v=w_znRopGtbE) video, by Jeri Ellsworth
 
 
 
