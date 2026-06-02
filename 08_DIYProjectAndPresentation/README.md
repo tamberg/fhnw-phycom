@@ -41,6 +41,7 @@
 - [ ] Share
 
 ### Resources
+- [Homebrew NMOS transistor](https://www.youtube.com/watch?v=w_znRopGtbE) video, by Jeri Ellsworth
 - ...
 
 
