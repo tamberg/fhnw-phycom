@@ -1,6 +1,9 @@
 # Physical Computing
 
 ## DIY-Project & Presentation
+<img src="https://live.staticflickr.com/65535/54713917661_cd00d13861_z.jpg" width="540" alt="Presenting to peers"/><br/>
+_Presenting to peers_
+
 ### Contents
 - [Motivation](#Motivation)
 - [Basics](#Basics)
