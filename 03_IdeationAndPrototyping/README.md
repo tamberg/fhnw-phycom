@@ -39,7 +39,7 @@ _A kitchen timer prototype_
 - ...
 
 ### Tools
-- [Idea generator](https://github.com/tamberg/idea) software, by @tamberg
+- [Idea generator](https://github.com/tamberg/idea) software
 - Hot glue gun
 - Cutting mat
 - Cutter
