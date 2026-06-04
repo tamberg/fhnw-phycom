@@ -14,7 +14,7 @@ _3D-printed linear gear mechanism_
 - [Resources](#Resources)
 
 ### Motivation
-- [Brushograph](https://wiki.sgmk-ssam.ch/wiki/Brushograph) plotter w/ 3D printed parts, by Dominik Mahnič, @dusjagr et. al
+- [Brushograph](https://wiki.sgmk-ssam.ch/wiki/Brushograph) plotter, by Dominik Mahnič, @dusjagr et. al
 
 ### Basics
 - Designing simple parts
