@@ -123,7 +123,7 @@
 
   Day   Input                       Making
 
-  Mon   PCB-Layout                  Etching
+  Mon   PCB-Layout                  Production
   Tue   Documentation & Sharing     Exploring
   Wed   DIY-Project Kick-off        Working
   Thu   DIY-Project Inputs          Working
