@@ -41,8 +41,9 @@ _A microcontroller with sensors & actuators_
 - Wires
 
 ### Tools
-- Your computer
-- Your brain :)
+- Mu Editor or VS Code for CircuitPython
+- Arduino IDE or VS Code for Arduino
+- Your computer (Win/Mac/Linux)
 
 ### Skills
 - [ ] Programming a microcontroller

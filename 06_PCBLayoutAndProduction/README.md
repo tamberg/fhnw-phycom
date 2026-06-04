@@ -33,13 +33,16 @@ _A custom CO2 sensor breakout board_
 - ...
 
 ### Tools
+- Layout Software, e.g. KiCad or Fritzing
+- Your computer
 - Scissors
+- Pencil
 - ...
 
 ### Skills
 - [ ] Lay out a circuit by hand
-- [ ] Change a circuit in KiCad
-- [ ] Know how to order a PCB
+- [ ] Edit a circuit in KiCad
+- [ ] Order a PCB online
 - [ ] ...
 
 ### Resources

@@ -39,6 +39,7 @@ _Laser-cut panel with arcade buttons_
 > Safety: No unattended laser-cutting, risk of fire!
 
 - 2D CAD software (Inkscape, OpenSCAD, ...)
+- Your computer (Win/Mac/Linux)
 - Online box generator
 - Laser-cutter
 

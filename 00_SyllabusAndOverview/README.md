@@ -45,7 +45,7 @@ Also available as [.pdf](Phycom00SyllabusAndOverview.pdf) and [.txt](Phycom00Syl
 - 15 minute breaks, roughly once an hour.
 
 ### Location
-- Input, usually at the classroom, Room 4.513
+- Input, usually at the classroom, Room 4.515
 - Making, usually at the makerspace, Room 4.125
 
 ### Presence
@@ -66,7 +66,7 @@ Also available as [.pdf](Phycom00SyllabusAndOverview.pdf) and [.txt](Phycom00Syl
 > Be excellent to each other.
 
 - Actively participate.
-- Ask for / give help.
+- Ask for / offer help.
 - Respect boundaries.
 
 ### Program
