@@ -62,12 +62,11 @@ _Soldering an electronic circuit, SGMK style_
 
 ### Resources
 - [Soldering is Easy](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) zine, by Mitch Altman, Andie Nordgren & Jeff Keyzer
+- [Build Electronic Circuits](https://www.build-electronic-circuits.com) tutorials, by Øyvind Nydal Dahl
 - [Circuit Bending](https://www.conceptlab.com/circuitbending/) zine, by Garnet Hertz
 - [Circuit Classics](https://www.crowdsupply.com/star-simpson/circuit-classics) PCBs, by Star Simpson
 - [Open Circuits](https://nostarch.com/open-circuits) book, by Windell Oskay & Eric Schlaepfer
 - [Make Electronics](https://archive.org/details/makeelectronicsl0000plat) book, by Charles Platt
-
-
 
 
 
