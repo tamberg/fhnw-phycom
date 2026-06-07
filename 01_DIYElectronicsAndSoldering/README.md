@@ -14,13 +14,19 @@ _Soldering an electronic circuit, SGMK style_
 - [Resources](#Resources)
 
 ### Motivation
+- [DIY Festival - do it yourself Kultur](https://www.youtube.com/watch?v=5yKIn0ASaGo=) good old times, SGMK Festival 2007
+- [NAND gate to make music!](https://github.com/arai-eek/forever4093geeking)
+- [dusjagr's hotglue on DIY electronics](https://dusjagr.hotglue.me/)
 - [I can solder](https://www.tindie.com/products/PartFusion/i-can-solder-badge-v1/) badge, by Robert Fitzsimons
 - [Micro-noise](https://wiki.sgmk-ssam.ch/wiki/Micronoise) analogue circuit, by SGMK
 - [Solar bird](https://wiki.sgmk-ssam.ch/wiki/Solar_bird) analogue circuit, by SGMK
-- [Beepsy](https://www.flickr.com/photos/tamberg/52800892033) tool, by Michi Egger
+- [Peepsy](https://www.flickr.com/photos/tamberg/52800892033) tool, by Michi Egger
+- (more about the peepsy next Monday)
+
+![alt text](image.png)
 
 ### Basics
-- Parts (LED, Switch, Resistor, Power source, Cables)
+- Parts (LED, Switch, Resistor, Capacitor, Power source, Cables)
 - Concepts (Voltage, Current, Resistance, Power, ...)
 - Units (Volt, Ampere, Ohm, Ah, ...)
 - Symbols (...)
@@ -29,7 +35,6 @@ _Soldering an electronic circuit, SGMK style_
 
 ### Advanced
 - Potentiometer (Variable resistance)
-- Capacity (Variable current over time)
 - Inductance (Current vs. magnetic field)
 - Relais (Switch high currents)
 - Motors (DC motor, Servo, ...)
