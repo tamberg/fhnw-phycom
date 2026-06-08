@@ -128,7 +128,7 @@ Each topic follows this structure.
 - Making materials, to be used responsibly
 
 ### Audience
-- This course can be attedned by students from both, [HSI](https://fhnw.ch/hsi) and [HTU](https://fhnw.ch/htu).
+- This course can be attended by students from both, [HSI](https://fhnw.ch/hsi) and [HTU](https://fhnw.ch/htu).
 - Basic knowledge of either programming or electronics might help.
 - If you are not sure if this course is for you, consider contacting us.
 
