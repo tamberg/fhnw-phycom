@@ -49,11 +49,9 @@ _Soldering an electronic circuit, SGMK style_
 _It's a lion!_
 
 ### Challenge 
-Build a NAND oscillator and make some noise!
-
-Will be described on the black board during the class...
-
-Some badly documented stuff is here: [J'aime wiki](https://www.hackteria.org/wiki/J%27aime_4093_Nandsynth#Vive-la-Restistance)
+- Build a NAND oscillator and make some noise!
+- Will be described on the black board during class...
+- Some badly documented stuff is in the [J'aime wiki](https://www.hackteria.org/wiki/J%27aime_4093_Nandsynth#Vive-la-Restistance)
 
 ### Skills
 - [ ] Reading schematics and understand symbols
