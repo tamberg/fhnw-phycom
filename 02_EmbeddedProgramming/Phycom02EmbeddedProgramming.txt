@@ -122,7 +122,18 @@
   - Build circuit on breadboard,
     use 10k resistor
   - Adapt the pin number
-  - Use the map() function
+
++
+
+  # Making a dial
+
+  - File > Examples > Basics >
+    AnalogReadSerial
+  - Search "Arduino Poti circuit"
+  - Build circuit on breadboard,
+    use 10k resistor
+  - Adapt the pin number
+  - Use the map() function => 0-9
 
 +
 +
