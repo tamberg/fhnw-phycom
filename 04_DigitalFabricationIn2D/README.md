@@ -22,7 +22,7 @@ _Laser-cut panel with arcade buttons_
 ### Basics
 - 2D design (SVG, DXF, PDF, ...)
 - Cutting
-- Etching
+- Engraving
 
 ### Advanced
 - Designing bends
@@ -46,8 +46,14 @@ _Laser-cut panel with arcade buttons_
 - Laser-cutter
 
 ### Skills
-- [ ] Design
-- [ ] Cut (w/ assistance)
+- [ ] Design with Inkscape
+- [ ] Preview with OpenSCAD from 3D to 2d, as "projection"
+- [ ] Cut with laser (w/ assistance)
+- [ ] Laser settings, power, speed, cutting, engraving, line "drawing"
+
+### More about Inkscape
+
+
 
 ### Resources
 - [Was ist ein FabLab?](http://www.tamberg.org/fablabzurich/2017/WasIstEinFabLab.pdf) slides, by @tamberg
