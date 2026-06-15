@@ -45,6 +45,7 @@ _A custom temperature sensor breakout board drawn by participants in Hammamatsu,
 
 ### Tools
 - https://www.hackteria.org/wiki/Diy-CAD
+- https://github.com/badgeek/svg2shenzhen
 - Layout Software, e.g. Inkscape, KiCad or Fritzing
 - Your computer
 - Scissors
