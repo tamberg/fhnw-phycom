@@ -2,7 +2,7 @@
 
 ## PCB-Layout & Production
 <img src="https://www.hackteria.org/wiki/images/5/5d/IMG_20170408_142207.jpg" width="540" title="CC BY-SA 4.0 @tamberg" alt="A custom temperature sensor breakout board"/><br/>
-_A custom temperature sensor breakout board drawb by participants in Hammamatsu, Japan, also known as Gär-Lämpli_
+_A custom temperature sensor breakout board drawn by participants in Hammamatsu, Japan, also known as Gär-Lämpli_
 
 ### Contents
 - [Motivation](#Motivation)
@@ -26,6 +26,12 @@ _A custom temperature sensor breakout board drawb by participants in Hammamatsu,
 - Preventing crossings
 - ...
 
+### SMD soldering - let's make a Peepsy
+
+![HowToSolder-SMD](img/Screenshot_HowToSolder-SMD.png)
+
+![BOM-Peepsy](img/Screenshot_BOM-Peepsy.png)
+
 ### Advanced
 - Creating a BOM
 - Sourcing parts
@@ -39,14 +45,16 @@ _A custom temperature sensor breakout board drawb by participants in Hammamatsu,
 
 ### Tools
 - https://www.hackteria.org/wiki/Diy-CAD
-- Layout Software, e.g. KiCad or Fritzing
+- Layout Software, e.g. Inkscape, KiCad or Fritzing
 - Your computer
 - Scissors
 - Pencil
 - ...
 
 ### Skills
+- [ ] SMD soldering
 - [ ] Layout a circuit by hand
+- [ ] Inkscape PCB Layout preparation svg2shenzhen
 - [ ] Edit a circuit in KiCad
 - [ ] Order a PCB online
 - [ ] ...
