@@ -48,6 +48,7 @@ _Neatly arranged parts, to be assembled_
 - [ ] Sharing your work
 
 ### Resources
+- [Slides](https://github.com/tamberg/fhnw-phycom/blob/main/07_DocumentationAndSharing/Phycom07DocumentationAndSharing.txt)
 - [Open source definition](https://opensource.org/osd)
 - [Choose a license](https://choosealicense.com) for source code
 - [Creative Commons](https://creativecommons.org/cc-licenses/) licenses
