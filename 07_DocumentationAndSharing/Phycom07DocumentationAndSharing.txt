@@ -1,0 +1,183 @@
++
+
+  # Physical Computing
+
+  ## Documentation & Sharing
+
+  Licensed CC BY-SA 4.0,
+  @tamberg & @dusjagr
+
+
+  * Min res 56x16 char
+
++
+
+  # Start early
+
+  - Take notes
+  - Take pictures
+  - Collect material
+  - From the beginning
+
++
+
+  # Take notes
+
+  - TXT file per day
+  - ISO 8601 format date
+  - Sort alphabetically =>
+    sorted chronologically
+
+
+  * e.g. Notes_v20260616.txt
+
++
+
+  # Take pictures
+
+  - Of everything
+  - The process
+  - The result
+
++
+
+  # Clean up the set
+
+  - Reduce unnecessary clutter
+  - Arrange/uncurl/tame wires
+  - Remove unrelated tools
+
++
+
+  # Show some context
+
+  - Hands for size reference
+  - Tools to hint at process
+  - Solder/cutting mat, etc.
+
++
+
+  # Check the light
+
+  - Light from top left
+  - Shadow bottom right
+  - Single light source
+
++
+
+  # Multiple perspectives
+
+  - Portrait and landscape
+  - Top view and front view
+  - Consider zooming out a bit
+
++
+
+  # Keep many, select a few
+
+  - Selection depends on usage
+  - Often no way to go back
+  - Crop/rotate can help
+
++
+
+  # Types of documentation
+
+  - Personal notes, research diary
+  - Photo collection / album
+  - Step-by-step tutorial
+  - Blog post / article
+  - Project repo
+  - Website
+  - Wiki
+
++
+
+  # Sharing
+
+  - Discoverability
+  - URL as reference
+  - Encouraging reuse
+  - Collecting feedback
+
+
+  * e.g. HTML vs. PDF
+
++
+
+  # Platforms
+
+  - Instructables
+  - Thingiverse
+  - GitHub/Lab
+  - Flickr
+
+
+  * and many others
+
++
+
+  # Channels
+
+  - Local meetups
+  - Online groups
+  - Social media
+  - Platforms
+
++
+
+  # Stay in control
+
+  - Enshittification is real
+  - Keep a copy on your disk
+  - Export tutorials as PDFs
+  - But also keep cost down,
+    e.g. for custom domains
+
++
+
+  # Open (Source) Definition
+
+  - Free redistribution
+  - Includes source code
+  - Allows derived works
+  - No discrimination
+  - ...
+
+
+  * https://opensource.org/osd
+
++
+
+  # Choose a license
+
+  - Open source soft/firmware
+  - Copy-left, e.g. GNU GPLv3
+  - Liberal, e.g. MIT License
+
+
+  * https://choosealicense.com
+
++
+
+  # Creative Commons
+
+  - License for artistic works
+  - Pictures, text, designs
+  - CC BY or CC BY-SA
+  - NC is not open
+
+
+  * https://creativecommons.org
+
++
+
+  # Open Hardware
+
+  - Open Hardware Logo
+  - CC BY or BY-SA
+  - CERN OHL
+  - OSHWA
+
++
++
