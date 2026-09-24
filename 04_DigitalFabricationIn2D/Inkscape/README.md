@@ -14,13 +14,13 @@ Use millimeters (mm) as the base unit for your design. This is the standard unit
 
 The page size should match the size of the material you are using. For example, if you are using an A4 piece of wood or acrylic (297mm x 210mm), then the page size should be 297mm x 210mm. Portrait or landscape does not matter.
 
-![alt text](./screenshots/image.png)
+![alt text](./page.png)
 
 ### Grid size for technical drawings
 
 Use a grid size of 1mm. This ensures your design is precise and helps align elements accurately, especially when working with dimensions that are multiples of 10mm (as laser-cut slots are typically 10mm wide). You can turn on / off to view the grid by pressing `#` on your keyboard, in View tab.
 
-![alt text](./screenshots/image_02.png)
+![alt text](./grid.png)
 
 ### Snapping options
 
@@ -30,10 +30,12 @@ Enable the snapping tool to ensure precise alignment of design elements. The sna
 
 In Inkscape there is a distinction between paths and objects. Paths are vector paths that can be edited, while objects are special like circles, fonts, rectangles with special options. At the end of your design, you need to convert all objects to paths, under "Path" -> "Object to Path" (Strg+Shift+C).
 
-![alt text](./screenshots/screenshot_paths.png)
+![alt text](./path.png)
 
-### Display Modes, see the "real" lines / not strokes
+### Display Modes
+
+See the "real" lines / not strokes.
 
 More description coming soon...
 
-![alt text](./screenshots/screenshot_displayModes.png)
+![alt text](./mode.png)
