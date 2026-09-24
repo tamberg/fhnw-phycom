@@ -1,4 +1,4 @@
-# DIY Electronics
+# Schematics
 
 [![Screenshot hotglue](screenshot_DIY-electronics_hotglue.png)](https://dusjagr.hotglue.me/)
 *Click on image to see more*
