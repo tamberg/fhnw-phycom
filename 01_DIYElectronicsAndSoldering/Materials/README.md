@@ -1,10 +1,14 @@
-# Materials
+# DIY Electronics
 
 [![Screenshot hotglue](../img/screenshot_DIY-electronics_hotglue.png)](https://dusjagr.hotglue.me/)
 *Click on image to see more*
 
-## Basics
+## Motivation
+- [DIY Festival - do it yourself Kultur](https://www.youtube.com/watch?v=5yKIn0ASaGo=) good old times, >
+- [NAND gate to make music!](https://github.com/arai-eek/forever4093geeking)
+- [dusjagr's hotglue on DIY electronics](https://dusjagr.hotglue.me/)
 
+## Basics
 ![It's a lion!](../img/parts_lion.png)
 
 _It's a lion!_ 
