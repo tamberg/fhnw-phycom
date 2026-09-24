@@ -71,4 +71,4 @@ _Soldering an electronic circuit, SGMK style_
 - [Circuit Classics](https://www.crowdsupply.com/star-simpson/circuit-classics) PCBs, by Star Simpson
 - [Open Circuits](https://nostarch.com/open-circuits) book, by Windell Oskay & Eric Schlaepfer
 - [Make Electronics](https://archive.org/details/makeelectronicsl0000plat) book, by Charles Platt
-- [DIY Electronics](DIYElectronics) materials, by @dusjagr
+- [DIY Electronics](DIYElectronics/README.md) materials, by @dusjagr
