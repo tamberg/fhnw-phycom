@@ -58,7 +58,7 @@ _Laser-cut panel with arcade buttons_
 ### Resources
 - [Was ist ein FabLab?](http://www.tamberg.org/fablabzurich/2017/WasIstEinFabLab.pdf) slides, by @tamberg
 - [Engraving fonts](https://www.evilmadscientist.com/2011/hershey-text-an-inkscape-extension-for-engraving-fonts/) tutorial, by Windell Oskay
-
+- [Inkscape screenshots](Inkscape)
 
 
 
