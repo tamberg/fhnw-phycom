@@ -24,9 +24,6 @@ _Soldering an electronic circuit, SGMK style_
 - [Peepsy](https://www.flickr.com/photos/tamberg/52800892033) tool, by Michi Egger
 - (more about the peepsy next Monday)
 
-[![Screenshot hotglue](../img/screenshot_DIY-electronics_hotglue.png)](https://dusjagr.hotglue.me/)
-*Click on image to see more*
-
 ### Basics
 - Parts (LED, Switch, Resistor, Capacitor, Power source, Cables)
 - Concepts (Voltage, Current, Resistance, Power, ...)
@@ -36,12 +33,6 @@ _Soldering an electronic circuit, SGMK style_
 - Logic gates (AND, OR, NOT, NAND, ...)
 - Formulas (Ohm's law, U = R * I, P = U * I)
 
-![It's a lion!](../img/parts_lion.png)
-
-_It's a lion!_ 
-
-modified from https://makezine.com/article/craft/electronics-levity/
-
 ### Advanced
 - Potentiometer (Variable resistance)
 - Inductance (Current vs. magnetic field)
@@ -49,31 +40,6 @@ modified from https://makezine.com/article/craft/electronics-levity/
 - Motors (DC motor, Servo, ...)
 - Transistor (Switch low currents)
 - ICs (Transistors, H-bridge, ...)
-
-![alt text](../img/electric_symbols_hand.png)
-
-from https://www.ic-components.com/blog/100-circuit-symbols-and-names-to-help-you-with-your-next-project.jsp
-
-### Logic Gates and 4093 IC
-
-![Logic Gates](../img/LogicGates_symbols.png)
-
-from https://www.allaboutcircuits.com/textbook/reference/chpt-9/integrated-circuits/
-
-![4093 Schema](../img/4093_schema.png)
-
-from https://docs.cirkitdesigner.com/component/0a253d56-19f9-4640-a31c-6bfbd8d9908b/4093
-
-### Challenge 
-- Build a NAND oscillator and make some noise!
-- Will be described on the black board during class...
-- Some badly documented stuff is in the [J'aime wiki](https://www.hackteria.org/wiki/J%27aime_4093_Nandsynth#Vive-la-Restistance)
-
-### Simple 4-NAND oscillator
-
-![4093 simple](../img/4093_simple_oscillator.png)
-
-![4093 micronoise](../img/4093_micronoise.png)
 
 ### Skills
 - [ ] Reading schematics and understand symbols
@@ -108,13 +74,3 @@ from https://docs.cirkitdesigner.com/component/0a253d56-19f9-4640-a31c-6bfbd8d99
 - [Circuit Classics](https://www.crowdsupply.com/star-simpson/circuit-classics) PCBs, by Star Simpson
 - [Open Circuits](https://nostarch.com/open-circuits) book, by Windell Oskay & Eric Schlaepfer
 - [Make Electronics](https://archive.org/details/makeelectronicsl0000plat) book, by Charles Platt
-
-
-
-
-
-
-
-
-
-
