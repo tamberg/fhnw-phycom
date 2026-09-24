@@ -56,7 +56,7 @@ _Gär-Lämpli, a custom temperature sensor breakout board drawn by participants 
 - [ ] ...
 
 ### Resources
-- [SMD soldering](SMDSoldering/README.md) tutoria, by @dusjagr
+- [SMD soldering](SMDSoldering/README.md) tutorial, by @dusjagr
 
 
 
