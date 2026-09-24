@@ -15,9 +15,6 @@ _Soldering an electronic circuit, SGMK style_
 - [Resources](#Resources)
 
 ### Motivation
-- [DIY Festival - do it yourself Kultur](https://www.youtube.com/watch?v=5yKIn0ASaGo=) good old times, SGMK Festival 2007
-- [NAND gate to make music!](https://github.com/arai-eek/forever4093geeking)
-- [dusjagr's hotglue on DIY electronics](https://dusjagr.hotglue.me/)
 - [I can solder](https://www.tindie.com/products/PartFusion/i-can-solder-badge-v1/) badge, by Robert Fitzsimons
 - [Micro-noise](https://wiki.sgmk-ssam.ch/wiki/Micronoise) analogue circuit, by SGMK
 - [Solar bird](https://wiki.sgmk-ssam.ch/wiki/Solar_bird) analogue circuit, by SGMK
