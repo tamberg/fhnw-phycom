@@ -68,7 +68,7 @@
 
   # Location
 
-  - Input, usually at the classroom, Room 4.515 TBC
+  - Input, usually at the classroom, Room 4.515 (TBC)
   - Making, usually at the makerspace, Room 4.125
 
 +
