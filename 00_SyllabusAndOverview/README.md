@@ -45,7 +45,7 @@ Also available as [.pdf](Phycom00SyllabusAndOverview.pdf) and [.txt](Phycom00Syl
 - 15 minute breaks, roughly once an hour.
 
 ### Location
-- Input, usually at the classroom, Room 4.515
+- Input, usually at the classroom, Room 4.515 (TBC)
 - Making, usually at the makerspace, Room 4.125
 
 ### Presence
