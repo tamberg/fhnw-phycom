@@ -36,8 +36,8 @@ Also available as [.pdf](Phycom00SyllabusAndOverview.pdf) and [.txt](Phycom00Syl
 - Pass/fail, no grades.
     
 ### Date
-- Week 1, KW24, 08.06. - 12.06.2026.
-- Week 2, KW25, 15.06. - 19.06.2026.
+- Week 1, KW28, 12.07. - 16.07.2027.
+- Week 2, KW29, 19.07. - 23.07.2027.
 
 ### Time
 - 09:15 - 12:00, 3 hours in the morning.
